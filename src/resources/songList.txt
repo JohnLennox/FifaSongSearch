@@ -1,0 +1,3847 @@
+[
+  {
+    "Artist": "070 Shake",
+    "Song": "Morrow",
+    "Game": 2021
+  },
+  {
+    "Artist": "Aitch",
+    "Song": "MICE",
+    "Game": 2021
+  },
+  {
+    "Artist": "Alfie Templeman",
+    "Song": "Wish I Was Younger",
+    "Game": 2021
+  },
+  {
+    "Artist": "Anitta, Myke Towers, Cardi B",
+    "Song": "Me Gusta (with Cardi B & Myke Towers)",
+    "Game": 2021
+  },
+  {
+    "Artist": "Biig Piig",
+    "Song": "Don't Turn Around",
+    "Game": 2021
+  },
+  {
+    "Artist": "Buju Banton",
+    "Song": "Unity",
+    "Game": 2021
+  },
+  {
+    "Artist": "Carlos Sadness, Bomba Estero",
+    "Song": "Aloha",
+    "Game": 2021
+  },
+  {
+    "Artist": "Celeste",
+    "Song": "Stop This Flame",
+    "Game": 2021
+  },
+  {
+    "Artist": "Chloe Black",
+    "Song": "Sacrifice",
+    "Game": 2021
+  },
+  {
+    "Artist": "De Lux",
+    "Song": "Cool Up",
+    "Game": 2021
+  },
+  {
+    "Artist": "Domino Saints",
+    "Song": "BUYA",
+    "Game": 2021
+  },
+  {
+    "Artist": "Dua Lipa, The Blessed Madonna",
+    "Song": "Love Is Religion (The Blessed Madonna Remix)",
+    "Game": 2021
+  },
+  {
+    "Artist": "Dylan Fraser",
+    "Song": "Vipers",
+    "Game": 2021
+  },
+  {
+    "Artist": "Everything Is Recorded, Infinite Coles, BERWYN",
+    "Song": "01:32AM / WALK ALONE",
+    "Game": 2021
+  },
+  {
+    "Artist": "Fireboy DML",
+    "Song": "Scatter",
+    "Game": 2021
+  },
+  {
+    "Artist": "Glass Animals",
+    "Song": "Heat Waves",
+    "Game": 2021
+  },
+  {
+    "Artist": "ICEKIID",
+    "Song": "ErruDumEllaHvad",
+    "Game": 2021
+  },
+  {
+    "Artist": "KAWALA",
+    "Song": "Ticket To Ride",
+    "Game": 2021
+  },
+  {
+    "Artist": "LA Priest",
+    "Song": "Beginning",
+    "Game": 2021
+  },
+  {
+    "Artist": "LARRY PINK THE HUMAN",
+    "Song": "MIGHT DELETE LATER",
+    "Game": 2021
+  },
+  {
+    "Artist": "Leyma",
+    "Song": "been a minute",
+    "Game": 2021
+  },
+  {
+    "Artist": "Louis The Child, EARTHGANG",
+    "Song": "Big Love (with EARTHGANG)",
+    "Game": 2021
+  },
+  {
+    "Artist": "Madame Ghandhi",
+    "Song": "Bad Habits",
+    "Game": 2021
+  },
+  {
+    "Artist": "Mike Sabath",
+    "Song": "Good Energy",
+    "Game": 2021
+  },
+  {
+    "Artist": "Nia Wyn",
+    "Song": "Who Asked You",
+    "Game": 2021
+  },
+  {
+    "Artist": "Nnena",
+    "Song": "Work It Out",
+    "Game": 2021
+  },
+  {
+    "Artist": "Oliver Malcolm",
+    "Song": "Switched Up",
+    "Game": 2021
+  },
+  {
+    "Artist": "Oscar Lang",
+    "Song": "Apple Juice",
+    "Game": 2021
+  },
+  {
+    "Artist": "박혜진 Park Hye Jin",
+    "Song": "Like this",
+    "Game": 2021
+  },
+  {
+    "Artist": "Royal Blood",
+    "Song": "Trouble's Coming",
+    "Game": 2021
+  },
+  {
+    "Artist": "Steam Down, Afronaut Zu",
+    "Song": "Etcetera",
+    "Game": 2021
+  },
+  {
+    "Artist": "Still Woozy",
+    "Song": "Window",
+    "Game": 2021
+  },
+  {
+    "Artist": "Tame Impala",
+    "Song": "Is It True",
+    "Game": 2021
+  },
+  {
+    "Artist": "tha Supreme, Dani Faiv",
+    "Song": "no14 - feat. Dani Faiv",
+    "Game": 2021
+  },
+  {
+    "Artist": "The Snuts",
+    "Song": "That's All It Is",
+    "Game": 2021
+  },
+  {
+    "Artist": "Zaia",
+    "Song": "SHADE",
+    "Game": 2021
+  },
+  {
+    "Artist": "Another Sky",
+    "Song": "The Cracks",
+    "Game": 2020
+  },
+  {
+    "Artist": "Apre",
+    "Song": "Come Down",
+    "Game": 2020
+  },
+  {
+    "Artist": "BJ the Chicago Kid",
+    "Song": "Feel the Vibe",
+    "Game": 2020
+  },
+  {
+    "Artist": "Buscabulla",
+    "Song": "Vamono",
+    "Game": 2020
+  },
+  {
+    "Artist": "Cautious Clay",
+    "Song": "Erase",
+    "Game": 2020
+  },
+  {
+    "Artist": "Child of the Parish",
+    "Song": "Before the Moment's Gone",
+    "Game": 2020
+  },
+  {
+    "Artist": "Colouring",
+    "Song": "Oh My God!",
+    "Game": 2020
+  },
+  {
+    "Artist": "Danay Suarez",
+    "Song": "La Razon del Equilibrio",
+    "Game": 2020
+  },
+  {
+    "Artist": "Dennis Lloyd",
+    "Song": "Wild West",
+    "Game": 2020
+  },
+  {
+    "Artist": "Dominic Fike",
+    "Song": "Phone Numbers",
+    "Game": 2020
+  },
+  {
+    "Artist": "Everyone You Know",
+    "Song": "She Don't Dance",
+    "Game": 2020
+  },
+  {
+    "Artist": "Fieh",
+    "Song": "Glu",
+    "Game": 2020
+  },
+  {
+    "Artist": "Flume",
+    "Song": "Running Back",
+    "Game": 2020
+  },
+  {
+    "Artist": "Foals",
+    "Song": "The Runner",
+    "Game": 2020
+  },
+  {
+    "Artist": "Friedberg",
+    "Song": "Go Wild",
+    "Game": 2020
+  },
+  {
+    "Artist": "Goldlink",
+    "Song": "Zulu Screams",
+    "Game": 2020
+  },
+  {
+    "Artist": "Half Alive",
+    "Song": "Runaway",
+    "Game": 2020
+  },
+  {
+    "Artist": "Hot Chip",
+    "Song": "Positive",
+    "Game": 2020
+  },
+  {
+    "Artist": "Jai Paul",
+    "Song": "He",
+    "Game": 2020
+  },
+  {
+    "Artist": "Janice",
+    "Song": "Hearts Will Bleed",
+    "Game": 2020
+  },
+  {
+    "Artist": "JB Scofield",
+    "Song": "Stretch It",
+    "Game": 2020
+  },
+  {
+    "Artist": "Jevon",
+    "Song": "Lil Ze",
+    "Game": 2020
+  },
+  {
+    "Artist": "Judah & The Lion",
+    "Song": "Why Did You Run?",
+    "Game": 2020
+  },
+  {
+    "Artist": "JYyllowL",
+    "Song": "Ozone",
+    "Game": 2020
+  },
+  {
+    "Artist": "Kamakaze x Massappeals",
+    "Song": "Last Night",
+    "Game": 2020
+  },
+  {
+    "Artist": "Kojey Radical",
+    "Song": "Where Do I Begin?",
+    "Game": 2020
+  },
+  {
+    "Artist": "Loyle Carner",
+    "Song": "Angel",
+    "Game": 2020
+  },
+  {
+    "Artist": "Major Lazer",
+    "Song": "Que Calor",
+    "Game": 2020
+  },
+  {
+    "Artist": "Masego",
+    "Song": "Big Girls",
+    "Game": 2020
+  },
+  {
+    "Artist": "Milky Chance",
+    "Song": "Fado",
+    "Game": 2020
+  },
+  {
+    "Artist": "MNDR",
+    "Song": "Save Me",
+    "Game": 2020
+  },
+  {
+    "Artist": "Obongjayer",
+    "Song": "Frens",
+    "Game": 2020
+  },
+  {
+    "Artist": "P Money",
+    "Song": "Where and When",
+    "Game": 2020
+  },
+  {
+    "Artist": "Pixx",
+    "Song": "Funsize",
+    "Game": 2020
+  },
+  {
+    "Artist": "Rosalia & Ozuna",
+    "Song": "Yo x Ti, Tu x Mi",
+    "Game": 2020
+  },
+  {
+    "Artist": "Sampa the Great",
+    "Song": "OMG",
+    "Game": 2020
+  },
+  {
+    "Artist": "Skepta",
+    "Song": "Same Old Story",
+    "Game": 2020
+  },
+  {
+    "Artist": "Sofi Tukker",
+    "Song": "Swing",
+    "Game": 2020
+  },
+  {
+    "Artist": "Suzi Wu",
+    "Song": "Highway",
+    "Game": 2020
+  },
+  {
+    "Artist": "The Knocks & Kah-lo",
+    "Song": "Awa Ni",
+    "Game": 2020
+  },
+  {
+    "Artist": "The SLP",
+    "Song": "Favourites",
+    "Game": 2020
+  },
+  {
+    "Artist": "Tierra Whack",
+    "Song": "Unemployed",
+    "Game": 2020
+  },
+  {
+    "Artist": "Ttrruuces",
+    "Song": "I'm Alive",
+    "Game": 2020
+  },
+  {
+    "Artist": "Andreya Triana",
+    "Song": "Beautiful People",
+    "Game": 2019
+  },
+  {
+    "Artist": "Atomic Drum Assembly",
+    "Song": "Island Life",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bakar",
+    "Song": "Big Dreams",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bantu & Dr. Chaii",
+    "Song": "Jackie Chan",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bas",
+    "Song": "Tribe feat. J. Cole",
+    "Game": 2019
+  },
+  {
+    "Artist": "BC Unidos",
+    "Song": "Take It Easy feat. U.S. Girls and Ledinsky",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bearson",
+    "Song": "It's Not This feat. Lemaitre and Josh Pan",
+    "Game": 2019
+  },
+  {
+    "Artist": "Billie Eilish",
+    "Song": "you should see me in a crown",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bob Moses",
+    "Song": "Heaven Only Knows",
+    "Game": 2019
+  },
+  {
+    "Artist": "Broods",
+    "Song": "Peach",
+    "Game": 2019
+  },
+  {
+    "Artist": "Bugzy Malone",
+    "Song": "Ordinary People",
+    "Game": 2019
+  },
+  {
+    "Artist": "Childish Gambino ",
+    "Song": "Feels Like Summer",
+    "Game": 2019
+  },
+  {
+    "Artist": "Confidence Man",
+    "Song": "Out the Window",
+    "Game": 2019
+  },
+  {
+    "Artist": "Courtney Barnett",
+    "Song": "City Looks Pretty",
+    "Game": 2019
+  },
+  {
+    "Artist": "Crystal Fighters",
+    "Song": "Another Level",
+    "Game": 2019
+  },
+  {
+    "Artist": "Death Cab for Cutie",
+    "Song": "Gold Rush",
+    "Game": 2019
+  },
+  {
+    "Artist": "Easy Life",
+    "Song": "Pockets",
+    "Game": 2019
+  },
+  {
+    "Artist": "Ghali",
+    "Song": "Habibi",
+    "Game": 2019
+  },
+  {
+    "Artist": "Gizmo Varillas & Baio",
+    "Song": "Losing You (Baio Remix)",
+    "Game": 2019
+  },
+  {
+    "Artist": "Gorillaz",
+    "Song": "Sorcererz",
+    "Game": 2019
+  },
+  {
+    "Artist": "Hans Zimmer ft. Vince Staples",
+    "Song": "Champions League Remix",
+    "Game": 2019
+  },
+  {
+    "Artist": "Husky Loops feat. MEI & Count Counsellor",
+    "Song": "Everytime I Run",
+    "Game": 2019
+  },
+  {
+    "Artist": "Jacob Banks",
+    "Song": "Love Ain't Enough",
+    "Game": 2019
+  },
+  {
+    "Artist": "Jungle",
+    "Song": "Beat 54 (All Good Now)",
+    "Game": 2019
+  },
+  {
+    "Artist": "Kojey Radical",
+    "Song": "Water with Mahalia & Swindle",
+    "Game": 2019
+  },
+  {
+    "Artist": "LADAMA",
+    "Song": "Porro Maracatu (TOY SELECTAH Remix)",
+    "Game": 2019
+  },
+  {
+    "Artist": "Lao Ra",
+    "Song": "Pa'lante",
+    "Game": 2019
+  },
+  {
+    "Artist": "Logic",
+    "Song": "Warm It Up feat. Young Sinatra",
+    "Game": 2019
+  },
+  {
+    "Artist": "LSD (Labrinth, Sia, Diplo)",
+    "Song": "Genius",
+    "Game": 2019
+  },
+  {
+    "Artist": "Mansionair",
+    "Song": "Violet City",
+    "Game": 2019
+  },
+  {
+    "Artist": "No/Me",
+    "Song": "Consistent",
+    "Game": 2019
+  },
+  {
+    "Artist": "NoMBe",
+    "Song": "Drama feat. Big Data",
+    "Game": 2019
+  },
+  {
+    "Artist": "Ocean Wisdom",
+    "Song": "Tom & Jerry",
+    "Game": 2019
+  },
+  {
+    "Artist": "Octavian",
+    "Song": "Lightning",
+    "Game": 2019
+  },
+  {
+    "Artist": "Peggy Gou",
+    "Song": "It Makes You Forget (Itgehane)",
+    "Game": 2019
+  },
+  {
+    "Artist": "Sam Fender",
+    "Song": "Play God",
+    "Game": 2019
+  },
+  {
+    "Artist": "Stealth",
+    "Song": "Truth Is",
+    "Game": 2019
+  },
+  {
+    "Artist": "Stereo Honey",
+    "Song": "Where No One Knows Your Name",
+    "Game": 2019
+  },
+  {
+    "Artist": "SUN SILVA",
+    "Song": "Blue Light",
+    "Game": 2019
+  },
+  {
+    "Artist": "Tom Misch",
+    "Song": "Good To Be Home feat. Loyle Carner, Barney Artist, Rebel Kleff",
+    "Game": 2019
+  },
+  {
+    "Artist": "Tove Styrke",
+    "Song": "Sway",
+    "Game": 2019
+  },
+  {
+    "Artist": "Wovoka Gentle",
+    "Song": "1000 Opera Singers Working In Starbucks",
+    "Game": 2019
+  },
+  {
+    "Artist": "Yolanda Be Cool",
+    "Song": "Musika feat. Kwanzaa Posse",
+    "Game": 2019
+  },
+  {
+    "Artist": "Young Fathers",
+    "Song": "Border Girl",
+    "Game": 2019
+  },
+  {
+    "Artist": "alt-J",
+    "Song": "Deadcrush",
+    "Game": 2018
+  },
+  {
+    "Artist": "Avelino (feat. Stormzy & Skepta)",
+    "Song": "Energy",
+    "Game": 2018
+  },
+  {
+    "Artist": "Bad Sounds",
+    "Song": "Wages",
+    "Game": 2018
+  },
+  {
+    "Artist": "Baloji",
+    "Song": "L'Hiver Indien",
+    "Game": 2018
+  },
+  {
+    "Artist": "BORNS",
+    "Song": "Faded Heart",
+    "Game": 2018
+  },
+  {
+    "Artist": "Cut Copy",
+    "Song": "Standing In The Middle Of The Field (Radio Edit)",
+    "Game": 2018
+  },
+  {
+    "Artist": "Django Django",
+    "Song": "Tic Tac Toe",
+    "Game": 2018
+  },
+  {
+    "Artist": "IDER",
+    "Song": "King Ruby",
+    "Game": 2018
+  },
+  {
+    "Artist": "Kimbra",
+    "Song": "On Top of the World",
+    "Game": 2018
+  },
+  {
+    "Artist": "Kovic",
+    "Song": "Drown",
+    "Game": 2018
+  },
+  {
+    "Artist": "Lorde",
+    "Song": "Supercut",
+    "Game": 2018
+  },
+  {
+    "Artist": "Mondo Cozmo",
+    "Song": "Automatic (New Edit)",
+    "Game": 2018
+  },
+  {
+    "Artist": "Mura Masa",
+    "Song": "Helpline feat. Tom Tripp",
+    "Game": 2018
+  },
+  {
+    "Artist": "ODESZA",
+    "Song": "La Ciudad",
+    "Game": 2018
+  },
+  {
+    "Artist": "Off Bloom",
+    "Song": "Falcon Eye",
+    "Game": 2018
+  },
+  {
+    "Artist": "Oliver",
+    "Song": "Heart Attack feat. De La Soul",
+    "Game": 2018
+  },
+  {
+    "Artist": "Outsider",
+    "Song": "Miol Mor Mara",
+    "Game": 2018
+  },
+  {
+    "Artist": "Perfume Genius",
+    "Song": "Slip Away",
+    "Game": 2018
+  },
+  {
+    "Artist": "Phantoms",
+    "Song": "Throw It In The Fire",
+    "Game": 2018
+  },
+  {
+    "Artist": "Portugal. The Man",
+    "Song": "Live In The Moment",
+    "Game": 2018
+  },
+  {
+    "Artist": "RAC",
+    "Song": "Beautiful Game feat. St. Lucia",
+    "Game": 2018
+  },
+  {
+    "Artist": "Residente",
+    "Song": "Dagombas en Tamale",
+    "Game": 2018
+  },
+  {
+    "Artist": "Rex Orange County",
+    "Song": "Never Enough",
+    "Game": 2018
+  },
+  {
+    "Artist": "Run The Jewels",
+    "Song": "Mean Demeanor",
+    "Game": 2018
+  },
+  {
+    "Artist": "Sir Sly",
+    "Song": "&Run",
+    "Game": 2018
+  },
+  {
+    "Artist": "Slowdive",
+    "Song": "Star Roving",
+    "Game": 2018
+  },
+  {
+    "Artist": "Sneakbo feat. Giggs",
+    "Song": "Active",
+    "Game": 2018
+  },
+  {
+    "Artist": "Sofi Tukker",
+    "Song": "Best Friend feat. NERVO, The Knocks, and Alisa UENO",
+    "Game": 2018
+  },
+  {
+    "Artist": "Superorganism",
+    "Song": "Something For Your M.I.N.D.",
+    "Game": 2018
+  },
+  {
+    "Artist": "Tash Sultana",
+    "Song": "Jungle",
+    "Game": 2018
+  },
+  {
+    "Artist": "Teme Tan",
+    "Song": "Ca Va Pas La Tete?",
+    "Game": 2018
+  },
+  {
+    "Artist": "The Amazons",
+    "Song": "Stay with Me",
+    "Game": 2018
+  },
+  {
+    "Artist": "The National",
+    "Song": "The System Only Dreams In Total Darkness",
+    "Game": 2018
+  },
+  {
+    "Artist": "The War On Drugs",
+    "Song": "Holding On",
+    "Game": 2018
+  },
+  {
+    "Artist": "The XX",
+    "Song": "Dangerous",
+    "Game": 2018
+  },
+  {
+    "Artist": "Tom Grennan",
+    "Song": "Found What I've Been Looking For",
+    "Game": 2018
+  },
+  {
+    "Artist": "Toothless",
+    "Song": "Sisyphus",
+    "Game": 2018
+  },
+  {
+    "Artist": "Vessels",
+    "Song": "Deflect The Light feat. The Flaming Lips",
+    "Game": 2018
+  },
+  {
+    "Artist": "Washed Out",
+    "Song": "Get Lost",
+    "Game": 2018
+  },
+  {
+    "Artist": "Appeals",
+    "Song": "Bayonne",
+    "Game": 2017
+  },
+  {
+    "Artist": "Balkan Beat Box",
+    "Song": "I Trusted U",
+    "Game": 2017
+  },
+  {
+    "Artist": "Barns Courtney",
+    "Song": "Hobo Rocket",
+    "Game": 2017
+  },
+  {
+    "Artist": "Bastille",
+    "Song": "Send Them Off!",
+    "Game": 2017
+  },
+  {
+    "Artist": "Beaty Heart",
+    "Song": "Slide to the Side",
+    "Game": 2017
+  },
+  {
+    "Artist": "Beck",
+    "Song": "NEW SONG",
+    "Game": 2017
+  },
+  {
+    "Artist": "Bishop Briggs",
+    "Song": "Be Your Love",
+    "Game": 2017
+  },
+  {
+    "Artist": "Bob Moses",
+    "Song": "Tearing Me Up (RAC Mix)",
+    "Game": 2017
+  },
+  {
+    "Artist": "Capital Cities",
+    "Song": "Vowels",
+    "Game": 2017
+  },
+  {
+    "Artist": "Catfish and the Bottlemen",
+    "Song": "Postpone",
+    "Game": 2017
+  },
+  {
+    "Artist": "Ceci Bastida",
+    "Song": "Un Sueno feat. Aloe Blacc",
+    "Game": 2017
+  },
+  {
+    "Artist": "Compass: Mexican Institute Of Sound + Toy Selectah",
+    "Song": "Explotar feat. Rob Birch, Kool A.D., Emicida, Maluca",
+    "Game": 2017
+  },
+  {
+    "Artist": "Declan McKenna",
+    "Song": "Isombard",
+    "Game": 2017
+  },
+  {
+    "Artist": "Digitalism",
+    "Song": "Shangri-La",
+    "Game": 2017
+  },
+  {
+    "Artist": "DMA's",
+    "Song": "Play It Out",
+    "Game": 2017
+  },
+  {
+    "Artist": "Empire Of The Sun",
+    "Song": "High And Low",
+    "Game": 2017
+  },
+  {
+    "Artist": "Formation",
+    "Song": "Pleasure",
+    "Game": 2017
+  },
+  {
+    "Artist": "Glass Animals",
+    "Song": "Youth",
+    "Game": 2017
+  },
+  {
+    "Artist": "Grouplove",
+    "Song": "Don't Stop Making It Happen",
+    "Game": 2017
+  },
+  {
+    "Artist": "HUNTAR",
+    "Song": "Anyway",
+    "Game": 2017
+  },
+  {
+    "Artist": "Jack Garratt",
+    "Song": "Surprise Yourself",
+    "Game": 2017
+  },
+  {
+    "Artist": "Jagwar Ma",
+    "Song": "O B 1",
+    "Game": 2017
+  },
+  {
+    "Artist": "KAMAU",
+    "Song": "Justfayu feat. No Wyld",
+    "Game": 2017
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "Comeback Kid",
+    "Game": 2017
+  },
+  {
+    "Artist": "Kygo",
+    "Song": "Raging feat. Kodaline",
+    "Game": 2017
+  },
+  {
+    "Artist": "Lemaitre",
+    "Song": "We Got U feat. The Knocks",
+    "Game": 2017
+  },
+  {
+    "Artist": "Lewis Del Mar",
+    "Song": "Painting (Masterpiece)",
+    "Game": 2017
+  },
+  {
+    "Artist": "Lola Coca",
+    "Song": "Love Songs",
+    "Game": 2017
+  },
+  {
+    "Artist": "LOYAL",
+    "Song": "Moving As One",
+    "Game": 2017
+  },
+  {
+    "Artist": "Lucius",
+    "Song": "Almighty Gosh",
+    "Game": 2017
+  },
+  {
+    "Artist": "NGOD",
+    "Song": "Blue",
+    "Game": 2017
+  },
+  {
+    "Artist": "Oliver",
+    "Song": "Electrify feat. Scott Mellis",
+    "Game": 2017
+  },
+  {
+    "Artist": "Paper Routes",
+    "Song": "Chariots",
+    "Game": 2017
+  },
+  {
+    "Artist": "Paul Kalkbrenner",
+    "Song": "(Let Me Hear You) Scream",
+    "Game": 2017
+  },
+  {
+    "Artist": "Phantogram",
+    "Song": "Same Ol Blues",
+    "Game": 2017
+  },
+  {
+    "Artist": "Porter Robinson & Madeon",
+    "Song": "Shelter",
+    "Game": 2017
+  },
+  {
+    "Artist": "Rat Boy",
+    "Song": "Get Over It",
+    "Game": 2017
+  },
+  {
+    "Artist": "Rocco Hunt",
+    "Song": "Sto Bene Cosi",
+    "Game": 2017
+  },
+  {
+    "Artist": "SAFIA",
+    "Song": "Bye Bye",
+    "Game": 2017
+  },
+  {
+    "Artist": "Saint Motel",
+    "Song": "Move",
+    "Game": 2017
+  },
+  {
+    "Artist": "Skott",
+    "Song": "Porcelain",
+    "Game": 2017
+  },
+  {
+    "Artist": "Society",
+    "Song": "Protocol",
+    "Game": 2017
+  },
+  {
+    "Artist": "Sofi Tukker",
+    "Song": "Johny",
+    "Game": 2017
+  },
+  {
+    "Artist": "Souls",
+    "Song": "Satisfied",
+    "Game": 2017
+  },
+  {
+    "Artist": "Spring King",
+    "Song": "Who Are You?",
+    "Game": 2017
+  },
+  {
+    "Artist": "ST feat. Marta Kot",
+    "Song": "Vera i Nadezhda (WIN)",
+    "Game": 2017
+  },
+  {
+    "Artist": "Systema Solar",
+    "Song": "Rumbera",
+    "Game": 2017
+  },
+  {
+    "Artist": "Tourist",
+    "Song": "Run",
+    "Game": 2017
+  },
+  {
+    "Artist": "Two Door Cinema Club",
+    "Song": "Are We Ready? (Wreck)",
+    "Game": 2017
+  },
+  {
+    "Artist": "Zedd & Grey",
+    "Song": "Adrenaline",
+    "Game": 2017
+  },
+  {
+    "Artist": "ZHU",
+    "Song": "Money",
+    "Game": 2017
+  },
+  {
+    "Artist": "All Tvvins",
+    "Song": "Darkest Ocean",
+    "Game": 2016
+  },
+  {
+    "Artist": "April Towers",
+    "Song": "A Little Bit of Fear",
+    "Game": 2016
+  },
+  {
+    "Artist": "Atlas Genius",
+    "Song": "Stockholm",
+    "Game": 2016
+  },
+  {
+    "Artist": "AURORA",
+    "Song": "Conqueror",
+    "Game": 2016
+  },
+  {
+    "Artist": "Baiana System",
+    "Song": "Playsom",
+    "Game": 2016
+  },
+  {
+    "Artist": "Baio",
+    "Song": "Sister of Pearl",
+    "Game": 2016
+  },
+  {
+    "Artist": "BANNERS",
+    "Song": "Shine a Light",
+    "Game": 2016
+  },
+  {
+    "Artist": "Bastille",
+    "Song": "Hangin'",
+    "Game": 2016
+  },
+  {
+    "Artist": "Beck",
+    "Song": "Dreams",
+    "Game": 2016
+  },
+  {
+    "Artist": "Bomba Estero",
+    "Song": "Soy Yo",
+    "Game": 2016
+  },
+  {
+    "Artist": "BORNS",
+    "Song": "Fool",
+    "Game": 2016
+  },
+  {
+    "Artist": "Coasts",
+    "Song": "Tonight",
+    "Game": 2016
+  },
+  {
+    "Artist": "Disclosure",
+    "Song": "Omen feat. Sam Smith",
+    "Game": 2016
+  },
+  {
+    "Artist": "Durante",
+    "Song": "Slow Burn feat. Chuck Ellis",
+    "Game": 2016
+  },
+  {
+    "Artist": "Everything Everything",
+    "Song": "Distant Past",
+    "Game": 2016
+  },
+  {
+    "Artist": "Foals",
+    "Song": "Mountain At My Gates",
+    "Game": 2016
+  },
+  {
+    "Artist": "Gin Wigmore",
+    "Song": "New Rush",
+    "Game": 2016
+  },
+  {
+    "Artist": "Icona Pop",
+    "Song": "Emergency",
+    "Game": 2016
+  },
+  {
+    "Artist": "Jax Jones",
+    "Song": "Yeah Yeah Yeah",
+    "Game": 2016
+  },
+  {
+    "Artist": "John Newman",
+    "Song": "Tiring Game feat. Charlie Wilson",
+    "Game": 2016
+  },
+  {
+    "Artist": "Kaleo",
+    "Song": "Way Down We Go",
+    "Game": 2016
+  },
+  {
+    "Artist": "Kygo",
+    "Song": "ID",
+    "Game": 2016
+  },
+  {
+    "Artist": "Louis the Child",
+    "Song": "It's Strange feat. K. Flay",
+    "Game": 2016
+  },
+  {
+    "Artist": "Miami Horror",
+    "Song": "All It Ever Was",
+    "Game": 2016
+  },
+  {
+    "Artist": "No Wyld",
+    "Song": "Let Me Know",
+    "Game": 2016
+  },
+  {
+    "Artist": "Nothing But Thieves",
+    "Song": "Trip Switch",
+    "Game": 2016
+  },
+  {
+    "Artist": "Of Monsters and Men",
+    "Song": "Crystals",
+    "Game": 2016
+  },
+  {
+    "Artist": "Parade of Lights",
+    "Song": "Feeling Electric",
+    "Game": 2016
+  },
+  {
+    "Artist": "RAC, Nate Henricks",
+    "Song": "Back of the Car",
+    "Game": 2016
+  },
+  {
+    "Artist": "Raury",
+    "Song": "Crystal Express",
+    "Game": 2016
+  },
+  {
+    "Artist": "Seinabo Sey",
+    "Song": "Preend",
+    "Game": 2016
+  },
+  {
+    "Artist": "Skylar Grey feat. X Ambassadors",
+    "Song": "Cannonball",
+    "Game": 2016
+  },
+  {
+    "Artist": "Slaptop",
+    "Song": "Walls",
+    "Game": 2016
+  },
+  {
+    "Artist": "Speelburg",
+    "Song": "Lay It Right",
+    "Game": 2016
+  },
+  {
+    "Artist": "Swim Deep",
+    "Song": "One Great Song And I Could Change The World",
+    "Game": 2016
+  },
+  {
+    "Artist": "The Royal Concept",
+    "Song": "Smile",
+    "Game": 2016
+  },
+  {
+    "Artist": "The Very Best ",
+    "Song": "Makes A King feat. Jutty Taylor",
+    "Game": 2016
+  },
+  {
+    "Artist": "Tiggs Da Author",
+    "Song": "Run",
+    "Game": 2016
+  },
+  {
+    "Artist": "Unknown Mortal Orchestra",
+    "Song": "Can't Keep Checking My Phone",
+    "Game": 2016
+  },
+  {
+    "Artist": "X-Wife",
+    "Song": "Movin' Up",
+    "Game": 2016
+  },
+  {
+    "Artist": "Years & Years",
+    "Song": "Gold ( Edit)",
+    "Game": 2016
+  },
+  {
+    "Artist": "Zibra",
+    "Song": "Goodbye Mondays",
+    "Game": 2016
+  },
+  {
+    "Artist": "A-Trak",
+    "Song": "Push (Featuring Andrew Wyatt)",
+    "Game": 2015
+  },
+  {
+    "Artist": "AVICII",
+    "Song": "The Nights",
+    "Game": 2015
+  },
+  {
+    "Artist": "Bang La Decks",
+    "Song": "Utopia feat. Dominique Young Unique",
+    "Game": 2015
+  },
+  {
+    "Artist": "Broods",
+    "Song": "L.A.F.",
+    "Game": 2015
+  },
+  {
+    "Artist": "ChocQuibTown",
+    "Song": "Uh La La",
+    "Game": 2015
+  },
+  {
+    "Artist": "Death From Above 1979",
+    "Song": "Crystal Ball",
+    "Game": 2015
+  },
+  {
+    "Artist": "Dirty South",
+    "Song": "Tunnel Vision feat. SomeKindaWonderful",
+    "Game": 2015
+  },
+  {
+    "Artist": "Elliphant",
+    "Song": "Purple Light feat. Doja Cat",
+    "Game": 2015
+  },
+  {
+    "Artist": "Elliphant",
+    "Song": "All or Nothing",
+    "Game": 2015
+  },
+  {
+    "Artist": "Emicida feat. Rael",
+    "Song": "Levanta e Anda",
+    "Game": 2015
+  },
+  {
+    "Artist": "Fmlybnd",
+    "Song": "Come Alive",
+    "Game": 2015
+  },
+  {
+    "Artist": "Foster the People",
+    "Song": "Are You What You Want To Be?",
+    "Game": 2015
+  },
+  {
+    "Artist": "Jacob Banks",
+    "Song": "Move With You",
+    "Game": 2015
+  },
+  {
+    "Artist": "Joywave",
+    "Song": "Tongues feat. Kopps",
+    "Game": 2015
+  },
+  {
+    "Artist": "Jungle",
+    "Song": "Busy Earnin'",
+    "Game": 2015
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "Stevie",
+    "Game": 2015
+  },
+  {
+    "Artist": "Kinski Gallo",
+    "Song": "Cumbia Del Corazon",
+    "Game": 2015
+  },
+  {
+    "Artist": "Kwabs",
+    "Song": "Walk",
+    "Game": 2015
+  },
+  {
+    "Artist": "Lowell",
+    "Song": "Palm Trees",
+    "Game": 2015
+  },
+  {
+    "Artist": "Madden Brothers",
+    "Song": "We Are Done",
+    "Game": 2015
+  },
+  {
+    "Artist": "Madeon",
+    "Song": "Imperium",
+    "Game": 2015
+  },
+  {
+    "Artist": "Magic Man",
+    "Song": "Tonight",
+    "Game": 2015
+  },
+  {
+    "Artist": "Milky Chance",
+    "Song": "Down by the River",
+    "Game": 2015
+  },
+  {
+    "Artist": "MPB4",
+    "Song": "Agibore (Marky's Ye-Mele Refix)",
+    "Game": 2015
+  },
+  {
+    "Artist": "Nico & Vinz",
+    "Song": "When The Day Comes",
+    "Game": 2015
+  },
+  {
+    "Artist": "Polock",
+    "Song": "Everlasting",
+    "Game": 2015
+  },
+  {
+    "Artist": "Prides",
+    "Song": "Out of the Blue",
+    "Game": 2015
+  },
+  {
+    "Artist": "Rudimental",
+    "Song": "Give You Up feat. Alex Clare (World Cup Remix)",
+    "Game": 2015
+  },
+  {
+    "Artist": "Saint Motel",
+    "Song": "My Type",
+    "Game": 2015
+  },
+  {
+    "Artist": "Saint Raymond",
+    "Song": "Wild Heart",
+    "Game": 2015
+  },
+  {
+    "Artist": "Sante Les Amis",
+    "Song": "Brasil",
+    "Game": 2015
+  },
+  {
+    "Artist": "Slaptop",
+    "Song": "Sunrise",
+    "Game": 2015
+  },
+  {
+    "Artist": "Teddybears",
+    "Song": "Sunshine feat. Natalie Storm",
+    "Game": 2015
+  },
+  {
+    "Artist": "Tensnake",
+    "Song": "Pressure feat. Thabo",
+    "Game": 2015
+  },
+  {
+    "Artist": "The Griswolds",
+    "Song": "16 Years",
+    "Game": 2015
+  },
+  {
+    "Artist": "The Kooks",
+    "Song": "Around Town",
+    "Game": 2015
+  },
+  {
+    "Artist": "The Mountains",
+    "Song": "The Valleys",
+    "Game": 2015
+  },
+  {
+    "Artist": "The Ting Tings",
+    "Song": "Super Critical",
+    "Game": 2015
+  },
+  {
+    "Artist": "tUnE-yArDs",
+    "Song": "Water Fountain",
+    "Game": 2015
+  },
+  {
+    "Artist": "Vance Joy",
+    "Song": "Mess Is Mine",
+    "Game": 2015
+  },
+  {
+    "Artist": "American Authors",
+    "Song": "Hit It",
+    "Game": 2014
+  },
+  {
+    "Artist": "Amplify Dot",
+    "Song": "Get Down",
+    "Game": 2014
+  },
+  {
+    "Artist": "Bloc Party",
+    "Song": "Ratchet",
+    "Game": 2014
+  },
+  {
+    "Artist": "Chvrches",
+    "Song": "We Sink",
+    "Game": 2014
+  },
+  {
+    "Artist": "Crystal Fighters",
+    "Song": "Love Natural",
+    "Game": 2014
+  },
+  {
+    "Artist": "Dan Croll",
+    "Song": "Compliment Your Soul",
+    "Game": 2014
+  },
+  {
+    "Artist": "David Dallas",
+    "Song": "Runnin'",
+    "Game": 2014
+  },
+  {
+    "Artist": "De Staat",
+    "Song": "Down Town",
+    "Game": 2014
+  },
+  {
+    "Artist": "Disclosure",
+    "Song": "F for You",
+    "Game": 2014
+  },
+  {
+    "Artist": "Empire of the Sun",
+    "Song": "Alive",
+    "Game": 2014
+  },
+  {
+    "Artist": "Foals",
+    "Song": "My Number",
+    "Game": 2014
+  },
+  {
+    "Artist": "Grouplove",
+    "Song": "I'm With You",
+    "Game": 2014
+  },
+  {
+    "Artist": "Guards",
+    "Song": "I Know It's You",
+    "Game": 2014
+  },
+  {
+    "Artist": "Illya Kuryaki & The Valderramas",
+    "Song": "Funky Futurista",
+    "Game": 2014
+  },
+  {
+    "Artist": "Jamie N Commons",
+    "Song": "Marathon",
+    "Game": 2014
+  },
+  {
+    "Artist": "John Newman",
+    "Song": "Love Me Again",
+    "Game": 2014
+  },
+  {
+    "Artist": "Karol Conka",
+    "Song": "BoaNoite",
+    "Game": 2014
+  },
+  {
+    "Artist": "Ki:Theory",
+    "Song": "Kitty Hawk",
+    "Game": 2014
+  },
+  {
+    "Artist": "Los Rakas",
+    "Song": "Hot",
+    "Game": 2014
+  },
+  {
+    "Artist": "Marcelo D2",
+    "Song": "Voce Diz Que o Amor Nao Doi",
+    "Game": 2014
+  },
+  {
+    "Artist": "Miles Kane",
+    "Song": "Don't Forget Who You Are",
+    "Game": 2014
+  },
+  {
+    "Artist": "OK KID",
+    "Song": "Am Ende",
+    "Game": 2014
+  },
+  {
+    "Artist": "Oliver",
+    "Song": "Mechanical",
+    "Game": 2014
+  },
+  {
+    "Artist": "Olympic Ayres",
+    "Song": "Magic",
+    "Game": 2014
+  },
+  {
+    "Artist": "Robert DeLong",
+    "Song": "Here",
+    "Game": 2014
+  },
+  {
+    "Artist": "Rock Mafia Ft. Wyclef Jean And David Correy",
+    "Song": "I Am",
+    "Game": 2014
+  },
+  {
+    "Artist": "Smallpools",
+    "Song": "Dreaming",
+    "Game": 2014
+  },
+  {
+    "Artist": "The 1975 ",
+    "Song": "The City",
+    "Game": 2014
+  },
+  {
+    "Artist": "The Chain Gang of 1974",
+    "Song": "Miko",
+    "Game": 2014
+  },
+  {
+    "Artist": "The Colourist",
+    "Song": "Little Games (St. Lucia Remix)",
+    "Game": 2014
+  },
+  {
+    "Artist": "The Naked and Famous",
+    "Song": "Hearts Like Ours",
+    "Game": 2014
+  },
+  {
+    "Artist": "The Royal Concept",
+    "Song": "On Our Way",
+    "Game": 2014
+  },
+  {
+    "Artist": "Vampire Weekend",
+    "Song": "Worship You",
+    "Game": 2014
+  },
+  {
+    "Artist": "Wretch 32",
+    "Song": "24 Hours",
+    "Game": 2014
+  },
+  {
+    "Artist": "You Me At Six",
+    "Song": "Lived a Lie",
+    "Game": 2014
+  },
+  {
+    "Artist": "Animal Kingdom",
+    "Song": "Get Away With It",
+    "Game": 2013
+  },
+  {
+    "Artist": "Ashtar Command",
+    "Song": "Mark IV feat. Joshua Radin",
+    "Game": 2013
+  },
+  {
+    "Artist": "Astro",
+    "Song": "Panda",
+    "Game": 2013
+  },
+  {
+    "Artist": "Band Of Horses",
+    "Song": "Feud",
+    "Game": 2013
+  },
+  {
+    "Artist": "Bastille",
+    "Song": "Weight Of Living, Part 2",
+    "Game": 2013
+  },
+  {
+    "Artist": "Bloc Party",
+    "Song": "We Are Not Good People",
+    "Game": 2013
+  },
+  {
+    "Artist": "Cali",
+    "Song": "Outta My Mind",
+    "Game": 2013
+  },
+  {
+    "Artist": "Chevin",
+    "Song": "Champion",
+    "Game": 2013
+  },
+  {
+    "Artist": "Clement Marfo and The Frontline",
+    "Song": "Us Against The World",
+    "Game": 2013
+  },
+  {
+    "Artist": "Crystal Fighters",
+    "Song": "Follow",
+    "Game": 2013
+  },
+  {
+    "Artist": "deadmau5 feat. Gerard Way",
+    "Song": "Professional Griefers",
+    "Game": 2013
+  },
+  {
+    "Artist": "Django Django",
+    "Song": "Hail Bop",
+    "Game": 2013
+  },
+  {
+    "Artist": "Duologue",
+    "Song": "Get Out While You Can",
+    "Game": 2013
+  },
+  {
+    "Artist": "Elliphant",
+    "Song": "TeKKno Scene feat. Adam Kanyama",
+    "Game": 2013
+  },
+  {
+    "Artist": "Featurecast",
+    "Song": "Got That Fire (Oh La Ha) (feat. Pugs Atomz)",
+    "Game": 2013
+  },
+  {
+    "Artist": "Fitz And The Tantrums",
+    "Song": "Spark",
+    "Game": 2013
+  },
+  {
+    "Artist": "Flo Rida feat. Lil Wayne",
+    "Song": "Let It Roll Part 2",
+    "Game": 2013
+  },
+  {
+    "Artist": "Foreign Beggars and Bare Noise",
+    "Song": "See The Light",
+    "Game": 2013
+  },
+  {
+    "Artist": "Hadoen!",
+    "Song": "Bliss Out",
+    "Game": 2013
+  },
+  {
+    "Artist": "Imagine Dragons",
+    "Song": "On Top of the World",
+    "Game": 2013
+  },
+  {
+    "Artist": "Jagwar Ma",
+    "Song": "What Love",
+    "Game": 2013
+  },
+  {
+    "Artist": "Jonathan Boulet ",
+    "Song": "You're a Animal",
+    "Game": 2013
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "Club Foot",
+    "Game": 2013
+  },
+  {
+    "Artist": "Kimbra",
+    "Song": "Come Into My Head",
+    "Game": 2013
+  },
+  {
+    "Artist": "Kitten",
+    "Song": "G#",
+    "Game": 2013
+  },
+  {
+    "Artist": "Kraftklub",
+    "Song": "Eure Madchen",
+    "Game": 2013
+  },
+  {
+    "Artist": "Ladyhawke",
+    "Song": "Black White & Blue",
+    "Game": 2013
+  },
+  {
+    "Artist": "Madeon",
+    "Song": "Finale",
+    "Game": 2013
+  },
+  {
+    "Artist": "Matisyahu",
+    "Song": "Searchin",
+    "Game": 2013
+  },
+  {
+    "Artist": "Metric",
+    "Song": "Speed The Collapse",
+    "Game": 2013
+  },
+  {
+    "Artist": "Miike Snow",
+    "Song": "Paddling Out",
+    "Game": 2013
+  },
+  {
+    "Artist": "Passion Pit",
+    "Song": "I'll Be Alright",
+    "Game": 2013
+  },
+  {
+    "Artist": "Reptar",
+    "Song": "Sweet Sipping Soda",
+    "Game": 2013
+  },
+  {
+    "Artist": "Reverend And The Makers",
+    "Song": "Shine The Light",
+    "Game": 2013
+  },
+  {
+    "Artist": "Rock Mafia",
+    "Song": "Fly Or Die",
+    "Game": 2013
+  },
+  {
+    "Artist": "Royal Teeth",
+    "Song": "Wild",
+    "Game": 2013
+  },
+  {
+    "Artist": "Santigold",
+    "Song": "Big Mouth",
+    "Game": 2013
+  },
+  {
+    "Artist": "St. Lucia",
+    "Song": "September",
+    "Game": 2013
+  },
+  {
+    "Artist": "Stepdad",
+    "Song": "Jungles",
+    "Game": 2013
+  },
+  {
+    "Artist": "The Enemy",
+    "Song": "Saturday",
+    "Game": 2013
+  },
+  {
+    "Artist": "The Heavy",
+    "Song": "Don't Say Nothing",
+    "Game": 2013
+  },
+  {
+    "Artist": "The Presets",
+    "Song": "Ghosts",
+    "Game": 2013
+  },
+  {
+    "Artist": "The Royal Concept",
+    "Song": "Goldrsuhed",
+    "Game": 2013
+  },
+  {
+    "Artist": "Two Door Cinema Club",
+    "Song": "Sleep Alone",
+    "Game": 2013
+  },
+  {
+    "Artist": "Walk The Moon",
+    "Song": "Quesadilla",
+    "Game": 2013
+  },
+  {
+    "Artist": "Wretch 32",
+    "Song": "Blur",
+    "Game": 2013
+  },
+  {
+    "Artist": "Young Empires",
+    "Song": "Rain of Gold",
+    "Game": 2013
+  },
+  {
+    "Artist": "Youngblood Hawke",
+    "Song": "We Come Running",
+    "Game": 2013
+  },
+  {
+    "Artist": "Zemaria",
+    "Song": "Past 2",
+    "Game": 2013
+  },
+  {
+    "Artist": "Alex Metric & Steve Angello",
+    "Song": "Open Your Eyes",
+    "Game": 2012
+  },
+  {
+    "Artist": "All Mankind",
+    "Song": "Break The Spell",
+    "Game": 2012
+  },
+  {
+    "Artist": "Architecture in Helsinki",
+    "Song": "Escapee",
+    "Game": 2012
+  },
+  {
+    "Artist": "Bloco Bleque / Gabriel O Pensador",
+    "Song": "So Tem Jogador",
+    "Game": 2012
+  },
+  {
+    "Artist": "Chase & Status",
+    "Song": "No Problem",
+    "Game": 2012
+  },
+  {
+    "Artist": "Crystal Castles / Robert Smith",
+    "Song": "Not In Love",
+    "Game": 2012
+  },
+  {
+    "Artist": "CSS",
+    "Song": "Hits Me Like A Rock",
+    "Game": 2012
+  },
+  {
+    "Artist": "Cut Copy",
+    "Song": "Where I'm Going",
+    "Game": 2012
+  },
+  {
+    "Artist": "Digitalism",
+    "Song": "Circles",
+    "Game": 2012
+  },
+  {
+    "Artist": "DJ Raff",
+    "Song": "Latino & Proud",
+    "Game": 2012
+  },
+  {
+    "Artist": "El Guincho",
+    "Song": "Bombay (Fresh Touch Dub Mix)",
+    "Game": 2012
+  },
+  {
+    "Artist": "Empresarios",
+    "Song": "Sabor Tropical",
+    "Game": 2012
+  },
+  {
+    "Artist": "Foster the People",
+    "Song": "Call It What You Want",
+    "Game": 2012
+  },
+  {
+    "Artist": "Givers",
+    "Song": "Up Up Up",
+    "Game": 2012
+  },
+  {
+    "Artist": "Glasvegas",
+    "Song": "The World Is Yours",
+    "Game": 2012
+  },
+  {
+    "Artist": "Graffiti6",
+    "Song": "Stare Into The Sun",
+    "Game": 2012
+  },
+  {
+    "Artist": "Grouplove",
+    "Song": "Colours (Captain Cutz Remix)",
+    "Game": 2012
+  },
+  {
+    "Artist": "Japanese Popstars",
+    "Song": "Let Go",
+    "Game": 2012
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "Switchblade Smiles",
+    "Game": 2012
+  },
+  {
+    "Artist": "La Vida Boheme",
+    "Song": "El Buen Salvaje",
+    "Game": 2012
+  },
+  {
+    "Artist": "Little Dragon",
+    "Song": "Nightlight",
+    "Game": 2012
+  },
+  {
+    "Artist": "Macaco",
+    "Song": "Una Sola Voz",
+    "Game": 2012
+  },
+  {
+    "Artist": "Marteria feat. Yasha",
+    "Song": "Verstrahlt",
+    "Game": 2012
+  },
+  {
+    "Artist": "Monarchy",
+    "Song": "The Phoenix Alive (Kris Menace Remix)",
+    "Game": 2012
+  },
+  {
+    "Artist": "Pint Shot Riot",
+    "Song": "Twisted Soul",
+    "Game": 2012
+  },
+  {
+    "Artist": "Portugal. The Man",
+    "Song": "Got It All (This Can't Be Living Now)",
+    "Game": 2012
+  },
+  {
+    "Artist": "Rock Mafia",
+    "Song": "The Big Bang",
+    "Game": 2012
+  },
+  {
+    "Artist": "Spank Rock",
+    "Song": "Energy",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Chain Gang Of 1974",
+    "Song": "Hold on",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Hives",
+    "Song": "Thousand Answers",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Medics",
+    "Song": "City",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Naked & Famous",
+    "Song": "Punching In A Dream",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Strokes",
+    "Song": "Machu Picchu",
+    "Game": 2012
+  },
+  {
+    "Artist": "Tying Tiffany",
+    "Song": "Drownin'",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Ting Tings",
+    "Song": "Hands",
+    "Game": 2012
+  },
+  {
+    "Artist": "The Vaccines",
+    "Song": "Wreckin' Bar (Ra Ra Ra)",
+    "Game": 2012
+  },
+  {
+    "Artist": "Thievery Corporation",
+    "Song": "Stargazer",
+    "Game": 2012
+  },
+  {
+    "Artist": "Tittsworth & Alvin Risk feat. Maluca",
+    "Song": "La Campana",
+    "Game": 2012
+  },
+  {
+    "Artist": "TV On the Radio",
+    "Song": "Will Do",
+    "Game": 2012
+  },
+  {
+    "Artist": "Artist",
+    "Song": "Song",
+    "Game": 2011
+  },
+  {
+    "Artist": "Adrian Lux",
+    "Song": "Can't Sleep",
+    "Game": 2011
+  },
+  {
+    "Artist": "Ana Tijoux",
+    "Song": "1977",
+    "Game": 2011
+  },
+  {
+    "Artist": "Caribou",
+    "Song": "Odessa",
+    "Game": 2011
+  },
+  {
+    "Artist": "Charlotte Gainsbourg",
+    "Song": "Trick Pony",
+    "Game": 2011
+  },
+  {
+    "Artist": "Choc Quib Town",
+    "Song": "El Bombo",
+    "Game": 2011
+  },
+  {
+    "Artist": "Chromeo",
+    "Song": "Don't Turn the Lights On",
+    "Game": 2011
+  },
+  {
+    "Artist": "Dan Black",
+    "Song": "Wonder",
+    "Game": 2011
+  },
+  {
+    "Artist": "Dapuntobeat",
+    "Song": ":O",
+    "Game": 2011
+  },
+  {
+    "Artist": "Dum Dum Girls",
+    "Song": "It Only Takes One Night",
+    "Game": 2011
+  },
+  {
+    "Artist": "Ebony Bones",
+    "Song": "W.A.R.R.I.O.R.",
+    "Game": 2011
+  },
+  {
+    "Artist": "Gorillaz",
+    "Song": "Rhinestone Eyes",
+    "Game": 2011
+  },
+  {
+    "Artist": "Groove Armada",
+    "Song": "Paper Romance",
+    "Game": 2011
+  },
+  {
+    "Artist": "Howl",
+    "Song": "Controller",
+    "Game": 2011
+  },
+  {
+    "Artist": "Jonsi",
+    "Song": "Around Us",
+    "Game": 2011
+  },
+  {
+    "Artist": "Jump Jump Dance Dance",
+    "Song": "White Picket Fences",
+    "Game": 2011
+  },
+  {
+    "Artist": "Ladytron",
+    "Song": "Ace of Hz",
+    "Game": 2011
+  },
+  {
+    "Artist": "LCD Soundsystem",
+    "Song": "I Can Change",
+    "Game": 2011
+  },
+  {
+    "Artist": "Linkin Park",
+    "Song": "Black Out",
+    "Game": 2011
+  },
+  {
+    "Artist": "Locnville",
+    "Song": "Sun In My Pocket",
+    "Game": 2011
+  },
+  {
+    "Artist": "Malachai",
+    "Song": "Snowflake",
+    "Game": 2011
+  },
+  {
+    "Artist": "Maluca",
+    "Song": "El Tigeraso",
+    "Game": 2011
+  },
+  {
+    "Artist": "Mark Ronson feat. Simon Le Bon and Wiley",
+    "Song": "Record Collection",
+    "Game": 2011
+  },
+  {
+    "Artist": "Massive Attack",
+    "Song": "Splitting the Atom",
+    "Game": 2011
+  },
+  {
+    "Artist": "MGMT",
+    "Song": "Flash Delirium",
+    "Game": 2011
+  },
+  {
+    "Artist": "Ram Di Dam",
+    "Song": "Flashbacks",
+    "Game": 2011
+  },
+  {
+    "Artist": "Scissor Sisters",
+    "Song": "Fire With Fire",
+    "Game": 2011
+  },
+  {
+    "Artist": "The Black Keys",
+    "Song": "Tighten Up",
+    "Game": 2011
+  },
+  {
+    "Artist": "The Pinker Tones",
+    "Song": "Sampleame",
+    "Game": 2011
+  },
+  {
+    "Artist": "Tulipa",
+    "Song": "Efemera",
+    "Game": 2011
+  },
+  {
+    "Artist": "Two Door Cinema Club",
+    "Song": "I Can Talk",
+    "Game": 2011
+  },
+  {
+    "Artist": "We Are Scientists",
+    "Song": "Rules Don't Stop",
+    "Game": 2011
+  },
+  {
+    "Artist": "Yeasayer",
+    "Song": "O.N.E.",
+    "Game": 2011
+  },
+  {
+    "Artist": "Zemaria",
+    "Song": "The Space Ahead",
+    "Game": 2011
+  },
+  {
+    "Artist": "Auletta",
+    "Song": "Meine Stadt",
+    "Game": 2010
+  },
+  {
+    "Artist": "Balkan Beat Box feat. Tomer Yosef and Saz",
+    "Song": "Ramallah Tel Aviv",
+    "Game": 2010
+  },
+  {
+    "Artist": "BLK JKS",
+    "Song": "Lakeside",
+    "Game": 2010
+  },
+  {
+    "Artist": "Bomba Estero",
+    "Song": "Fuego",
+    "Game": 2010
+  },
+  {
+    "Artist": "Buraka Som Sistema feat. Pongolove",
+    "Song": "Kalemba",
+    "Game": 2010
+  },
+  {
+    "Artist": "CasioKids",
+    "Song": "Fot I Hose",
+    "Game": 2010
+  },
+  {
+    "Artist": "Children Collide",
+    "Song": "Skeleton Dance",
+    "Game": 2010
+  },
+  {
+    "Artist": "Cut Off Your Hands",
+    "Song": "Happy As Can Be",
+    "Game": 2010
+  },
+  {
+    "Artist": "Dananananaykroyd",
+    "Song": "Black Wax",
+    "Game": 2010
+  },
+  {
+    "Artist": "Datarock",
+    "Song": "Give It Up",
+    "Game": 2010
+  },
+  {
+    "Artist": "Fabri Fibra",
+    "Song": "Donna Famosa",
+    "Game": 2010
+  },
+  {
+    "Artist": "Fidel Nadal",
+    "Song": "International Love",
+    "Game": 2010
+  },
+  {
+    "Artist": "Los Fabulosos Cadillacs",
+    "Song": "La Luz del Ritmo",
+    "Game": 2010
+  },
+  {
+    "Artist": "Macaco",
+    "Song": "Hacen Falta Dos",
+    "Game": 2010
+  },
+  {
+    "Artist": "Major Lazer feat. Mr. Lexx and Santigold",
+    "Song": " Hold the Line",
+    "Game": 2010
+  },
+  {
+    "Artist": "Marcio Local",
+    "Song": "Soul do Samba",
+    "Game": 2010
+  },
+  {
+    "Artist": "Matt & Kim",
+    "Song": "Daylight",
+    "Game": 2010
+  },
+  {
+    "Artist": "Metric",
+    "Song": "Gold Guns Girls",
+    "Game": 2010
+  },
+  {
+    "Artist": "Mexican Institute of Sound",
+    "Song": "Alocatel",
+    "Game": 2010
+  },
+  {
+    "Artist": "Nneka feat. Wesley Williams",
+    "Song": "Kangpe",
+    "Game": 2010
+  },
+  {
+    "Artist": "Passion Pit",
+    "Song": "Moth's Wings",
+    "Game": 2010
+  },
+  {
+    "Artist": "Peter Bjorn and John",
+    "Song": "Nothing to Worry About",
+    "Game": 2010
+  },
+  {
+    "Artist": "Pint Shot Riot",
+    "Song": "Not Thinking Straight",
+    "Game": 2010
+  },
+  {
+    "Artist": "Playing for Change",
+    "Song": "War",
+    "Game": 2010
+  },
+  {
+    "Artist": "Rocky Dawuni",
+    "Song": "Download the Revolution",
+    "Game": 2010
+  },
+  {
+    "Artist": "Royksopp",
+    "Song": "It's What I Want",
+    "Game": 2010
+  },
+  {
+    "Artist": "SoShy",
+    "Song": "Dorothy",
+    "Game": 2010
+  },
+  {
+    "Artist": "The Answering Machine",
+    "Song": "It's Over! It's Over! It's Over!",
+    "Game": 2010
+  },
+  {
+    "Artist": "The BPA feat. Ashley Beedle",
+    "Song": "Should I Stay or Should I Blow",
+    "Game": 2010
+  },
+  {
+    "Artist": "The Enemy",
+    "Song": "Be Somebody",
+    "Game": 2010
+  },
+  {
+    "Artist": "The Whitest Boy Alive",
+    "Song": "1517",
+    "Game": 2010
+  },
+  {
+    "Artist": "Tommy Sparks",
+    "Song": "She's Got Me Dancing",
+    "Game": 2010
+  },
+  {
+    "Artist": "Wyclef Jean",
+    "Song": "MVP Kompa",
+    "Game": 2010
+  },
+  {
+    "Artist": "Zap Mama",
+    "Song": "Vibrations",
+    "Game": 2010
+  },
+  {
+    "Artist": "Caesar Palace",
+    "Song": "1ne",
+    "Game": 2009
+  },
+  {
+    "Artist": "Chromeo",
+    "Song": "Bonafied Lovin' (Yuksek Remix)",
+    "Game": 2009
+  },
+  {
+    "Artist": "CSS",
+    "Song": "Jager Yoga",
+    "Game": 2009
+  },
+  {
+    "Artist": "Curumin",
+    "Song": "Magrela",
+    "Game": 2009
+  },
+  {
+    "Artist": "Cut Copy",
+    "Song": "Lights And Music",
+    "Game": 2009
+  },
+  {
+    "Artist": "Damian \"Jr. Gong\" Marley",
+    "Song": "Something For You (One Loaf Of Bread)",
+    "Game": 2009
+  },
+  {
+    "Artist": "Datarock",
+    "Song": "True Stories",
+    "Game": 2009
+  },
+  {
+    "Artist": "DJ Bitman",
+    "Song": "Me Gustan",
+    "Game": 2009
+  },
+  {
+    "Artist": "Duffy",
+    "Song": "Mercy",
+    "Game": 2009
+  },
+  {
+    "Artist": "Foals",
+    "Song": "Olympic Airways",
+    "Game": 2009
+  },
+  {
+    "Artist": "Gonzales",
+    "Song": "Working Together (Boys Noize Remix)",
+    "Game": 2009
+  },
+  {
+    "Artist": "Hot Chip",
+    "Song": "Ready For The Floor (Soulwax Remix)",
+    "Game": 2009
+  },
+  {
+    "Artist": "Jakobinarina",
+    "Song": "I'm A Villain",
+    "Game": 2009
+  },
+  {
+    "Artist": "Junkie XL feat. Electrocute",
+    "Song": "Mad Pursuit",
+    "Game": 2009
+  },
+  {
+    "Artist": "Jupiter One",
+    "Song": "Platform Moon",
+    "Game": 2009
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "Fast Fuse",
+    "Game": 2009
+  },
+  {
+    "Artist": "Ladytron",
+    "Song": "Runaway",
+    "Game": 2009
+  },
+  {
+    "Artist": "Lykke Li",
+    "Song": "I'm Good I'm Gone",
+    "Game": 2009
+  },
+  {
+    "Artist": "Macaco",
+    "Song": "Movin'",
+    "Game": 2009
+  },
+  {
+    "Artist": "MGMT",
+    "Song": "Kids",
+    "Game": 2009
+  },
+  {
+    "Artist": "My Federation",
+    "Song": "What Gods Are These",
+    "Game": 2009
+  },
+  {
+    "Artist": "Najwajean",
+    "Song": "Drive Me",
+    "Game": 2009
+  },
+  {
+    "Artist": "Plastilina Mosh",
+    "Song": "Let U Know",
+    "Game": 2009
+  },
+  {
+    "Artist": "Radiopilot",
+    "Song": "Fahrrad",
+    "Game": 2009
+  },
+  {
+    "Artist": "Reverend And The Makers",
+    "Song": "Open Your Window",
+    "Game": 2009
+  },
+  {
+    "Artist": "Sam Sparro",
+    "Song": "Black & Gold",
+    "Game": 2009
+  },
+  {
+    "Artist": "Senor Flavio",
+    "Song": "Lo Mejor Del Mundo",
+    "Game": 2009
+  },
+  {
+    "Artist": "Soprano",
+    "Song": "Victory",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Airborne Toxic Event",
+    "Song": "Gasoline",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Black Kids",
+    "Song": "I'm Not Gonna Teach Your Boyfriend How To Dance With You (The Twelves Remix)",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Bloody Beetroots",
+    "Song": "Butterfly",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Fratellis",
+    "Song": "Tell Me A Lie",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Heavy",
+    "Song": "That Kind Of Man",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Kissaway Trail",
+    "Song": "61",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Kooks",
+    "Song": "Always Where I Need To Be",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Pinker Tones",
+    "Song": "The Whistling Song",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Script",
+    "Song": "The End Where I Begin",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Ting Tings",
+    "Song": "Keep Your Head",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Veronicas",
+    "Song": "Untouched",
+    "Game": 2009
+  },
+  {
+    "Artist": "The Whip",
+    "Song": " Muzzle #1",
+    "Game": 2009
+  },
+  {
+    "Artist": "Tom Jones",
+    "Song": "Feels Like Music (Junkie XL Remix)",
+    "Game": 2009
+  },
+  {
+    "Artist": "Ungdomskulen",
+    "Song": "Modern Drummer",
+    "Game": 2009
+  },
+  {
+    "Artist": "!!!",
+    "Song": "All My Heroes Are Weirdos",
+    "Game": 2008
+  },
+  {
+    "Artist": "Apartment",
+    "Song": "Fall into Place",
+    "Game": 2008
+  },
+  {
+    "Artist": "Art Brut",
+    "Song": "Direct Hit",
+    "Game": 2008
+  },
+  {
+    "Artist": "Aterciopelados",
+    "Song": "Paces",
+    "Game": 2008
+  },
+  {
+    "Artist": "Babamars",
+    "Song": "The Core",
+    "Game": 2008
+  },
+  {
+    "Artist": "Bodyrox feat. Luciana",
+    "Song": "What Planet You On?",
+    "Game": 2008
+  },
+  {
+    "Artist": "Bonde do Role",
+    "Song": "Solta o Frango",
+    "Game": 2008
+  },
+  {
+    "Artist": "CAMP",
+    "Song": "From Extremely Far Away",
+    "Game": 2008
+  },
+  {
+    "Artist": "Carpark North",
+    "Song": "Human",
+    "Game": 2008
+  },
+  {
+    "Artist": "Ceu",
+    "Song": "Malemolencia",
+    "Game": 2008
+  },
+  {
+    "Artist": "Cheb i Sabbah",
+    "Song": "Toura Toura: Nav Deep Remix",
+    "Game": 2008
+  },
+  {
+    "Artist": "Cansei de Ser Sexy",
+    "Song": "Off the Hook",
+    "Game": 2008
+  },
+  {
+    "Artist": "Datarock",
+    "Song": "Fa-Fa-Fa",
+    "Game": 2008
+  },
+  {
+    "Artist": "Digitalism",
+    "Song": "Pogo",
+    "Game": 2008
+  },
+  {
+    "Artist": "Disco Ensemble",
+    "Song": "We Might Fall Apart",
+    "Game": 2008
+  },
+  {
+    "Artist": "Dover",
+    "Song": "Do Ya",
+    "Game": 2008
+  },
+  {
+    "Artist": "Heroes & Zeros",
+    "Song": "Into the Light",
+    "Game": 2008
+  },
+  {
+    "Artist": "Ivy Queen",
+    "Song": "Que Lloren",
+    "Game": 2008
+  },
+  {
+    "Artist": "Kenna",
+    "Song": "Out of Control (State of Emotion)",
+    "Game": 2008
+  },
+  {
+    "Artist": "k-os",
+    "Song": "Born to Run",
+    "Game": 2008
+  },
+  {
+    "Artist": "La Rocca",
+    "Song": "Sketches (20 Something Life)",
+    "Game": 2008
+  },
+  {
+    "Artist": "Lukas Kasha",
+    "Song": "Love Abuse",
+    "Game": 2008
+  },
+  {
+    "Artist": "Madness feat. Sway and Baby Blue",
+    "Song": "I'm Sorry",
+    "Game": 2008
+  },
+  {
+    "Artist": "Maximo Park",
+    "Song": "The Unshockable",
+    "Game": 2008
+  },
+  {
+    "Artist": "Melody Club",
+    "Song": "Fever Fever",
+    "Game": 2008
+  },
+  {
+    "Artist": "Mexican Institute of Sound",
+    "Song": "El Microfono",
+    "Game": 2008
+  },
+  {
+    "Artist": "Modeselektor feat. Sasha Perera",
+    "Song": "Silikon",
+    "Game": 2008
+  },
+  {
+    "Artist": "Noisettes",
+    "Song": "Don't Give Up",
+    "Game": 2008
+  },
+  {
+    "Artist": "Pacha Massive",
+    "Song": "Don't Let Go",
+    "Game": 2008
+  },
+  {
+    "Artist": "Peter Bjorn and John",
+    "Song": "Young Folks",
+    "Game": 2008
+  },
+  {
+    "Artist": "Planet Funk",
+    "Song": "Static",
+    "Game": 2008
+  },
+  {
+    "Artist": "Robyn",
+    "Song": "Bum Like You",
+    "Game": 2008
+  },
+  {
+    "Artist": "Rocky Dawuni",
+    "Song": "Wake Up the Town",
+    "Game": 2008
+  },
+  {
+    "Artist": "Santigold",
+    "Song": "You'll Find a Way",
+    "Game": 2008
+  },
+  {
+    "Artist": "Simian Mobile Disco",
+    "Song": "I Believe",
+    "Game": 2008
+  },
+  {
+    "Artist": "Superbus",
+    "Song": "Butterfly",
+    "Game": 2008
+  },
+  {
+    "Artist": "Switches",
+    "Song": "Drama Queen",
+    "Game": 2008
+  },
+  {
+    "Artist": "The Automatic",
+    "Song": "Monster",
+    "Game": 2008
+  },
+  {
+    "Artist": "The Cat Empire",
+    "Song": "Sly",
+    "Game": 2008
+  },
+  {
+    "Artist": "The Hoosiers",
+    "Song": "Goodbye Mr A",
+    "Game": 2008
+  },
+  {
+    "Artist": "The Hours",
+    "Song": "Ali in the Jungle",
+    "Game": 2008
+  },
+  {
+    "Artist": "The Tellers",
+    "Song": "More",
+    "Game": 2008
+  },
+  {
+    "Artist": "Tigarah",
+    "Song": "Culture, Color, Money, Beauty",
+    "Game": 2008
+  },
+  {
+    "Artist": "Travis",
+    "Song": "Closer",
+    "Game": 2008
+  },
+  {
+    "Artist": "Tumi & the Volume",
+    "Song": "Afrique",
+    "Game": 2008
+  },
+  {
+    "Artist": "Vassy",
+    "Song": "Wanna Fly",
+    "Game": 2008
+  },
+  {
+    "Artist": "Wir sind Helden",
+    "Song": "Endlich ein Grund zur Panik",
+    "Game": 2008
+  },
+  {
+    "Artist": "Yonderboi",
+    "Song": "Were You Thinking Of Me?",
+    "Game": 2008
+  },
+  {
+    "Artist": "Angelique Kidjo",
+    "Song": "Wele Wele",
+    "Game": 2007
+  },
+  {
+    "Artist": "Belasco",
+    "Song": "Chloroform",
+    "Game": 2007
+  },
+  {
+    "Artist": "Bersuit Vergarabat",
+    "Song": "O Vas a Misa",
+    "Game": 2007
+  },
+  {
+    "Artist": "Bitman & Roban",
+    "Song": "Get on the Floor",
+    "Game": 2007
+  },
+  {
+    "Artist": "Blasted Mechanism",
+    "Song": "Blasted Empire",
+    "Game": 2007
+  },
+  {
+    "Artist": "Boy Kill Boy",
+    "Song": "Civil Sin",
+    "Game": 2007
+  },
+  {
+    "Artist": "caBas",
+    "Song": "La Cadena de Oro",
+    "Game": 2007
+  },
+  {
+    "Artist": "Carlos Jean",
+    "Song": "Get Down",
+    "Game": 2007
+  },
+  {
+    "Artist": "D.O.C.H.!",
+    "Song": "Was in der Zeitung Steht",
+    "Game": 2007
+  },
+  {
+    "Artist": "Elefant",
+    "Song": "Uh-oh Hello",
+    "Game": 2007
+  },
+  {
+    "Artist": "Epik High",
+    "Song": "Fly",
+    "Game": 2007
+  },
+  {
+    "Artist": "Fertig, Los!",
+    "Song": "Sie ist in Mich Verliebt",
+    "Game": 2007
+  },
+  {
+    "Artist": "Infadels",
+    "Song": "Can't Get Enough (Mekon Remix)",
+    "Game": 2007
+  },
+  {
+    "Artist": "Malibu Stacy",
+    "Song": "Los Angeles",
+    "Game": 2007
+  },
+  {
+    "Artist": "Mellowdrone",
+    "Song": "Oh My",
+    "Game": 2007
+  },
+  {
+    "Artist": "Mobile",
+    "Song": "New York Minute",
+    "Game": 2007
+  },
+  {
+    "Artist": "Morning Runner",
+    "Song": "Gone Up in Flames",
+    "Game": 2007
+  },
+  {
+    "Artist": "Muse",
+    "Song": "Supermassive Black Hole",
+    "Game": 2007
+  },
+  {
+    "Artist": "Nightmare of You",
+    "Song": "Dear Scene, I Wish I Were Deaf",
+    "Game": 2007
+  },
+  {
+    "Artist": "Outlandish",
+    "Song": "Kom Igen",
+    "Game": 2007
+  },
+  {
+    "Artist": "Paul Oakenfold",
+    "Song": "Beautiful Goal",
+    "Game": 2007
+  },
+  {
+    "Artist": "Persephone's Bees",
+    "Song": "Muzika Dyla Fil'ma (Music For Film)",
+    "Game": 2007
+  },
+  {
+    "Artist": "Plastilina Mosh",
+    "Song": "Peligroso Pop",
+    "Game": 2007
+  },
+  {
+    "Artist": "Polysics",
+    "Song": "Tei! Tei! Tei!",
+    "Game": 2007
+  },
+  {
+    "Artist": "The Prototypes",
+    "Song": "Kaleidoscope",
+    "Game": 2007
+  },
+  {
+    "Artist": "Ralph Myerz and the Jack Herren Band",
+    "Song": "Deepest Red",
+    "Game": 2007
+  },
+  {
+    "Artist": "Seu Jorge",
+    "Song": "Tive Razao",
+    "Game": 2007
+  },
+  {
+    "Artist": "Shiny Toy Guns",
+    "Song": "You Are the One",
+    "Game": 2007
+  },
+  {
+    "Artist": "Stijn",
+    "Song": "Gasoline and Matches",
+    "Game": 2007
+  },
+  {
+    "Artist": "Surferosa",
+    "Song": "Royal Uniform",
+    "Game": 2007
+  },
+  {
+    "Artist": "Tahiti 80",
+    "Song": "Big Day",
+    "Game": 2007
+  },
+  {
+    "Artist": "The Feeling",
+    "Song": "Sewn",
+    "Game": 2007
+  },
+  {
+    "Artist": "The Pinker Tones",
+    "Song": "TMCR Grande Finale",
+    "Game": 2007
+  },
+  {
+    "Artist": "The Sheer",
+    "Song": "Understand",
+    "Game": 2007
+  },
+  {
+    "Artist": "The Young Punx",
+    "Song": "You've Got To...",
+    "Game": 2007
+  },
+  {
+    "Artist": "Tigarah",
+    "Song": "Girl Fight",
+    "Game": 2007
+  },
+  {
+    "Artist": "Trash Inc.",
+    "Song": "Punk Rock Chick",
+    "Game": 2007
+  },
+  {
+    "Artist": "Us3",
+    "Song": "Kick This",
+    "Game": 2007
+  },
+  {
+    "Artist": "Young Love",
+    "Song": "Discotech",
+    "Game": 2007
+  },
+  {
+    "Artist": "3D Voz",
+    "Song": "Fiesta",
+    "Game": 2006
+  },
+  {
+    "Artist": "AK4711",
+    "Song": "Rock",
+    "Game": 2006
+  },
+  {
+    "Artist": "Bloc Party",
+    "Song": "Helicopter",
+    "Game": 2006
+  },
+  {
+    "Artist": "Blues Brother Castro",
+    "Song": "Flirt",
+    "Game": 2006
+  },
+  {
+    "Artist": "boTECOeletro",
+    "Song": "Coco Nutz Mass",
+    "Game": 2006
+  },
+  {
+    "Artist": "Boy",
+    "Song": "Same Old Song",
+    "Game": 2006
+  },
+  {
+    "Artist": "Carlinhos Brown & DJ Dero",
+    "Song": "Nabika",
+    "Game": 2006
+  },
+  {
+    "Artist": "Damian (Jr. Gong) Marley",
+    "Song": "Welcome to Jamrock",
+    "Game": 2006
+  },
+  {
+    "Artist": "Dogs",
+    "Song": "London Bridge",
+    "Game": 2006
+  },
+  {
+    "Artist": "Dove",
+    "Song": "Black and White Town",
+    "Game": 2006
+  },
+  {
+    "Artist": "Duels",
+    "Song": "Potential Futures",
+    "Game": 2006
+  },
+  {
+    "Artist": "Embrace",
+    "Song": "Ashes",
+    "Game": 2006
+  },
+  {
+    "Artist": "Hard-Fi",
+    "Song": "Gotta Reason",
+    "Game": 2006
+  },
+  {
+    "Artist": "Jamiroquai",
+    "Song": "Feels Just Like It Should",
+    "Game": 2006
+  },
+  {
+    "Artist": "Kaos",
+    "Song": "Now and Forever",
+    "Game": 2006
+  },
+  {
+    "Artist": "Kinky",
+    "Song": "Coqueta",
+    "Game": 2006
+  },
+  {
+    "Artist": "K'naan",
+    "Song": "Soobax",
+    "Game": 2006
+  },
+  {
+    "Artist": "KYO",
+    "Song": "Contact",
+    "Game": 2006
+  },
+  {
+    "Artist": "LCD Soundsystem",
+    "Song": "Daft Punk Is Playing At My House",
+    "Game": 2006
+  },
+  {
+    "Artist": "Linea 77",
+    "Song": "Inno All'Odio",
+    "Game": 2006
+  },
+  {
+    "Artist": "Mando Diao",
+    "Song": "God Knows",
+    "Game": 2006
+  },
+  {
+    "Artist": "maNga",
+    "Song": "Bir Kadin Cizeceksin",
+    "Game": 2006
+  },
+  {
+    "Artist": "Marcelinho da Lua",
+    "Song": "Tranquilo",
+    "Game": 2006
+  },
+  {
+    "Artist": "Nine Black Alps",
+    "Song": "Cosmopolitan",
+    "Game": 2006
+  },
+  {
+    "Artist": "Oasis",
+    "Song": "Lyla",
+    "Game": 2006
+  },
+  {
+    "Artist": "Paul Oakenfold",
+    "Song": "Beautiful Goal",
+    "Game": 2006
+  },
+  {
+    "Artist": "Royksopp",
+    "Song": "Follow My Ruin",
+    "Game": 2006
+  },
+  {
+    "Artist": "Selasee",
+    "Song": "Run",
+    "Game": 2006
+  },
+  {
+    "Artist": "SoShy",
+    "Song": "The Way I",
+    "Game": 2006
+  },
+  {
+    "Artist": "Subsonica",
+    "Song": "Corpo a Corpo",
+    "Game": 2006
+  },
+  {
+    "Artist": "Teddybears STHLM",
+    "Song": "Cobrastyle",
+    "Game": 2006
+  },
+  {
+    "Artist": "The Departure",
+    "Song": "Be My Enemy",
+    "Game": 2006
+  },
+  {
+    "Artist": "The Film",
+    "Song": "Can You Touch Me",
+    "Game": 2006
+  },
+  {
+    "Artist": "The Gift",
+    "Song": "11.33",
+    "Game": 2006
+  },
+  {
+    "Artist": "The Rakes",
+    "Song": "Strasbourg",
+    "Game": 2006
+  },
+  {
+    "Artist": "Vitalic",
+    "Song": "My Friend Dario",
+    "Game": 2006
+  },
+  {
+    "Artist": "Yerba Buena",
+    "Song": "Cityzen Citysoy",
+    "Game": 2006
+  },
+  {
+    "Artist": "Air",
+    "Song": "Surfing on a Rocket",
+    "Game": 2005
+  },
+  {
+    "Artist": "Brothers",
+    "Song": "Dieci Cento Mille",
+    "Game": 2005
+  },
+  {
+    "Artist": "Clorofila of Nortec Collective",
+    "Song": "Almada",
+    "Game": 2005
+  },
+  {
+    "Artist": "Debi Nova",
+    "Song": "One Rhythm (Do Yard Riddim Mix)",
+    "Game": 2005
+  },
+  {
+    "Artist": "Emma Warren",
+    "Song": "Wants U Back",
+    "Game": 2005
+  },
+  {
+    "Artist": "Faithless",
+    "Song": "No Roots",
+    "Game": 2005
+  },
+  {
+    "Artist": "Ferry Corsten",
+    "Song": "Rock Your Body, Rock",
+    "Game": 2005
+  },
+  {
+    "Artist": "Flogging Molly",
+    "Song": "To Youth (My Sweet Roisin Dubh",
+    "Game": 2005
+  },
+  {
+    "Artist": "Franz Ferdinand",
+    "Song": "Tell Her Tonight",
+    "Game": 2005
+  },
+  {
+    "Artist": "Future Funk Squad",
+    "Song": "Sorcerary",
+    "Game": 2005
+  },
+  {
+    "Artist": "Gusanito",
+    "Song": "Vive La Vida",
+    "Game": 2005
+  },
+  {
+    "Artist": "Head Automatica",
+    "Song": "Brooklyn Is Burning",
+    "Game": 2005
+  },
+  {
+    "Artist": "Inverga + Num Kebra",
+    "Song": "Eu Perdi Voce",
+    "Game": 2005
+  },
+  {
+    "Artist": "Ivete Sangalo",
+    "Song": "Sorte Grande",
+    "Game": 2005
+  },
+  {
+    "Artist": "INXS",
+    "Song": "What You Need (Coldcut Force Mix 13 Edit)",
+    "Game": 2005
+  },
+  {
+    "Artist": "Jose",
+    "Song": "A Necessidade",
+    "Game": 2005
+  },
+  {
+    "Artist": "Los Amigos Invisibles",
+    "Song": "Esto Es Lo Que Hay (Reggaeton Remix)",
+    "Game": 2005
+  },
+  {
+    "Artist": "Mala Rodriguez",
+    "Song": "Jugadoras, Jugadores",
+    "Game": 2005
+  },
+  {
+    "Artist": "Manana",
+    "Song": "Miss Evening",
+    "Game": 2005
+  },
+  {
+    "Artist": "Marcelo D2",
+    "Song": "Profissao MC",
+    "Game": 2005
+  },
+  {
+    "Artist": "Miss J",
+    "Song": "Follow Me",
+    "Game": 2005
+  },
+  {
+    "Artist": "Morrissey",
+    "Song": "Irish Blood, English Heart",
+    "Game": 2005
+  },
+  {
+    "Artist": "Nachlader",
+    "Song": "An die Wand",
+    "Game": 2005
+  },
+  {
+    "Artist": "New Order",
+    "Song": "Blue Monday",
+    "Game": 2005
+  },
+  {
+    "Artist": "Oomph!",
+    "Song": "Augen Auf!",
+    "Game": 2005
+  },
+  {
+    "Artist": "Paul Oakenfold",
+    "Song": "Beautiful Goal",
+    "Game": 2005
+  },
+  {
+    "Artist": "Sandro Bit",
+    "Song": "Ciao Sono lo",
+    "Game": 2005
+  },
+  {
+    "Artist": "Sarah McLachlan",
+    "Song": "World On Fire (Junkie XL Remix)",
+    "Game": 2005
+  },
+  {
+    "Artist": "Scissor Sisters",
+    "Song": "Take Your Mama",
+    "Game": 2005
+  },
+  {
+    "Artist": "Seeed",
+    "Song": "Release",
+    "Game": 2005
+  },
+  {
+    "Artist": "Sneak Attack Tigers",
+    "Song": "The End of All Good",
+    "Game": 2005
+  },
+  {
+    "Artist": "Soul'd Out",
+    "Song": "1,000,000 Monsters Attack",
+    "Game": 2005
+  },
+  {
+    "Artist": "The Sounds",
+    "Song": "Seven Days a Week",
+    "Game": 2005
+  },
+  {
+    "Artist": "The Soundtrack of Our Lives",
+    "Song": "Karmageddon",
+    "Game": 2005
+  },
+  {
+    "Artist": "The Streets",
+    "Song": "Fit But You Know It",
+    "Game": 2005
+  },
+  {
+    "Artist": "Wayne Marshall",
+    "Song": "Hot In the Club",
+    "Game": 2005
+  },
+  {
+    "Artist": "Zion y Lennox",
+    "Song": "Ahora",
+    "Game": 2005
+  },
+  {
+    "Artist": "Asian Dub Foundation",
+    "Song": "Rise To The Challenge",
+    "Game": 2004
+  },
+  {
+    "Artist": "Babamania",
+    "Song": "Wanna Rock",
+    "Game": 2004
+  },
+  {
+    "Artist": "Caesars",
+    "Song": "Jerk It Out",
+    "Game": 2004
+  },
+  {
+    "Artist": "Cafe Tacuba ",
+    "Song": "Eo (El Sonidero)",
+    "Game": 2004
+  },
+  {
+    "Artist": "DJ Sensei",
+    "Song": "Force",
+    "Game": 2004
+  },
+  {
+    "Artist": "Goldfrapp",
+    "Song": "Train",
+    "Game": 2004
+  },
+  {
+    "Artist": "Junior Senior",
+    "Song": "Rhythm Bandits",
+    "Game": 2004
+  },
+  {
+    "Artist": "Kane",
+    "Song": "Rain Down on Me (Tiesto Remix)",
+    "Game": 2004
+  },
+  {
+    "Artist": "Kasabian",
+    "Song": "L.S.F",
+    "Game": 2004
+  },
+  {
+    "Artist": "Kings Of Leon",
+    "Song": "Red Morning Light",
+    "Game": 2004
+  },
+  {
+    "Artist": "Lostprophets",
+    "Song": "Burn, Burn",
+    "Game": 2004
+  },
+  {
+    "Artist": "Paul van Dyk",
+    "Song": "Nothing But You",
+    "Game": 2004
+  },
+  {
+    "Artist": "Radiohead",
+    "Song": "Myxomatosis",
+    "Game": 2004
+  },
+  {
+    "Artist": "Suburbia",
+    "Song": "Always",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Clones",
+    "Song": "Crazy Boys",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Cooper Temple Clause",
+    "Song": "Promises, Promises",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Dandy Warhols",
+    "Song": "We Used to Be Friends",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Individuals",
+    "Song": "Take A Ride",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Jam",
+    "Song": "Town Called Malice",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Raveonettes",
+    "Song": "That Great Love Sound",
+    "Game": 2004
+  },
+  {
+    "Artist": "The Stone Roses",
+    "Song": "Fools Gold",
+    "Game": 2004
+  },
+  {
+    "Artist": "Timo Maas",
+    "Song": "Unite",
+    "Game": 2004
+  },
+  {
+    "Artist": "Tosca",
+    "Song": "Gute Laune",
+    "Game": 2004
+  },
+  {
+    "Artist": "Tribalistas",
+    "Song": "Ja Sei Namorar",
+    "Game": 2004
+  },
+  {
+    "Artist": "Underworld",
+    "Song": "Two Months Off",
+    "Game": 2004
+  },
+  {
+    "Artist": "Vicentico",
+    "Song": "Se Despierta La Ciudad",
+    "Game": 2004
+  },
+  {
+    "Artist": "Wir sind Helden",
+    "Song": "Guten Tag",
+    "Game": 2004
+  },
+  {
+    "Artist": "Zeca Pagodinho",
+    "Song": "Deixa A Vida Me Levar",
+    "Game": 2004
+  },
+  {
+    "Artist": "a.mia",
+    "Song": "Jumpin to the Moon (Unexplored Field Mix)",
+    "Game": 2003
+  },
+  {
+    "Artist": "Antiloop",
+    "Song": "In My Mind",
+    "Game": 2003
+  },
+  {
+    "Artist": "Avril Lavigne",
+    "Song": "Complicated (Pablo La Rossa Vocal Mix)",
+    "Game": 2003
+  },
+  {
+    "Artist": "Bedroom Rockers",
+    "Song": "Drivin",
+    "Game": 2003
+  },
+  {
+    "Artist": "Dax Riders",
+    "Song": "Force",
+    "Game": 2003
+  },
+  {
+    "Artist": "Idlewild",
+    "Song": "You Held the World in Your Arms",
+    "Game": 2003
+  },
+  {
+    "Artist": "Kosheen",
+    "Song": "Hide U",
+    "Game": 2003
+  },
+  {
+    "Artist": "Kosheen",
+    "Song": "Pride",
+    "Game": 2003
+  },
+  {
+    "Artist": "Ms. Dynamite",
+    "Song": "Dy-Na-Mi-Tee",
+    "Game": 2003
+  },
+  {
+    "Artist": "Safri Duo",
+    "Song": "Played A-Live (The Bongo Song)",
+    "Game": 2003
+  },
+  {
+    "Artist": "Sportfreunde Stiller",
+    "Song": "Independent",
+    "Game": 2003
+  },
+  {
+    "Artist": "Spotrunnaz",
+    "Song": "Bigger and Better",
+    "Game": 2003
+  },
+  {
+    "Artist": "Timo Maas",
+    "Song": "To Get Down (Fatboy Slim Remix)",
+    "Game": 2003
+  },
+  {
+    "Artist": "BT",
+    "Song": "Never Gonna Come Back Down (Hybrid's Echoplex Dub)",
+    "Game": 2002
+  },
+  {
+    "Artist": "Cirrus",
+    "Song": "Stop and Panic",
+    "Game": 2002
+  },
+  {
+    "Artist": "Conjure One",
+    "Song": "Redemption (Max Graham's Dead Sea Mix)",
+    "Game": 2002
+  },
+  {
+    "Artist": "DJ Tiesto",
+    "Song": "Flight 643",
+    "Game": 2002
+  },
+  {
+    "Artist": "Gorillaz",
+    "Song": "19-2000 (Soulchild Remix)",
+    "Game": 2002
+  },
+  {
+    "Artist": "Gouryella",
+    "Song": "Tenshi",
+    "Game": 2002
+  },
+  {
+    "Artist": "Issi Noho",
+    "Song": "First Snow (General Midi Remix)",
+    "Game": 2002
+  },
+  {
+    "Artist": "R4",
+    "Song": "Revolution",
+    "Game": 2002
+  },
+  {
+    "Artist": "Sandy vs Housetrap",
+    "Song": "Overdrive",
+    "Game": 2002
+  },
+  {
+    "Artist": "Schiller",
+    "Song": "Das Glockenspiel (Tiesto Remix)",
+    "Game": 2002
+  },
+  {
+    "Artist": "Terpsichord",
+    "Song": "The Bells",
+    "Game": 2002
+  },
+  {
+    "Artist": "The Edison Factor",
+    "Song": "Repeat the Sequence",
+    "Game": 2002
+  },
+  {
+    "Artist": "Vitae",
+    "Song": "Energy Flow",
+    "Game": 2002
+  },
+  {
+    "Artist": "Curve",
+    "Song": "Chinese Burn (Lunatic Calm Remix)",
+    "Game": 2001
+  },
+  {
+    "Artist": "Grand Theft Audio",
+    "Song": "We Luv You",
+    "Game": 2001
+  },
+  {
+    "Artist": "Moby",
+    "Song": "Bodyrock",
+    "Game": 2001
+  },
+  {
+    "Artist": "The Source",
+    "Song": "Fly Away",
+    "Game": 2001
+  },
+  {
+    "Artist": "Utah Saints",
+    "Song": "Funky Music (Levent's Funk-o-Rama Short Edit)",
+    "Game": 2001
+  },
+  {
+    "Artist": "Utah Saints",
+    "Song": "Power to the Beats",
+    "Game": 2001
+  },
+  {
+    "Artist": "Apollo 440",
+    "Song": "Stop The Rock",
+    "Game": 2000
+  },
+  {
+    "Artist": "Elite Force",
+    "Song": "Call It Brisco (And Why Not?)",
+    "Game": 2000
+  },
+  {
+    "Artist": "Gay Dad",
+    "Song": "Joy!",
+    "Game": 2000
+  },
+  {
+    "Artist": "Junior Blanks",
+    "Song": "All About Beats (DJ Scissoricks Mix)",
+    "Game": 2000
+  },
+  {
+    "Artist": "Lunatic Calm",
+    "Song": "LC001 (Neon Ray Mix)",
+    "Game": 2000
+  },
+  {
+    "Artist": "Reel Big Fish",
+    "Song": "Sell Out",
+    "Game": 2000
+  },
+  {
+    "Artist": "Robbie Williams",
+    "Song": "It's Only Us",
+    "Game": 2000
+  },
+  {
+    "Artist": "Sniper",
+    "Song": "Cross Fader Dominator",
+    "Game": 2000
+  },
+  {
+    "Artist": "Danmass",
+    "Song": "Gotta Learn (Dub Pistols Sick Junkie Remix)",
+    "Game": 1999
+  },
+  {
+    "Artist": "Dylan Rhymes",
+    "Song": "Naked and Ashamed",
+    "Game": 1999
+  },
+  {
+    "Artist": "Fatboy Slim",
+    "Song": "The Rockafeller Skank",
+    "Game": 1999
+  },
+  {
+    "Artist": "Gearwhore",
+    "Song": "Passion",
+    "Game": 1999
+  },
+  {
+    "Artist": "God Within",
+    "Song": "Raincry (Spiritual Thirst)",
+    "Game": 1999
+  },
+  {
+    "Artist": "Lionrock",
+    "Song": "Rude Boy Rock",
+    "Game": 1999
+  },
+  {
+    "Artist": "Blur",
+    "Song": "Song 2",
+    "Game": 1998
+  },
+  {
+    "Artist": "The Crystal Method",
+    "Song": "Keep Hope Alive",
+    "Game": 1998
+  },
+  {
+    "Artist": "The Crystal Method",
+    "Song": "More",
+    "Game": 1998
+  },
+  {
+    "Artist": "The Crystal Method",
+    "Song": "Now Is the Time (iCloud Remix)",
+    "Game": 1998
+  },
+  {
+    "Artist": "The Crystal Method",
+    "Song": "Busy Child",
+    "Game": 1998
+  },
+  {
+    "Artist": "Electric Skychurch",
+    "Song": "Hugga Bear",
+    "Game": 1998
+  }
+]

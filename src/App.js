@@ -1,25 +1,46 @@
-import logo from './logo.svg';
+import React from "react";
 import './App.css';
+import SearchPage from "./components/pages/SearchPage";
+import ResultPage from "./components/pages/ResultPage";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+            searchPage: true
+        }
+    }
+
+    setSearchPage = (searchPage) => {
+        this.setState({
+            searchPage: searchPage
+        })
+    }
+    setSearchResult = (searchResult) => {
+        this.setState({
+            searchResult: searchResult
+        })
+    }
+
+    render() {
+        let page = null;
+        if(this.state.searchPage){
+            console.log("searchPage");
+            page = <SearchPage updatePage={this.setSearchPage} updateSearchResult={this.setSearchResult}/>
+        }else{
+            console.log("Result: " + this.state.searchResult.songInfo.Artist + " - " + this.state.searchResult.songInfo.Song+ " - " + this.state.searchResult.songInfo.Game);
+            page = <ResultPage />
+        }
+
+        return (
+            <div className="App">
+                <header className="App-header">
+                    {page}
+                </header>
+            </div>
+        );
+    }
 }
 
 export default App;
