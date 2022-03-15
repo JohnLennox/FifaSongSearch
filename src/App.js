@@ -17,20 +17,25 @@ class App extends React.Component {
             searchPage: searchPage
         })
     }
+
     setSearchResult = (searchResult) => {
         this.setState({
             searchResult: searchResult
         })
     }
 
+    togglePage = () => {
+        this.setState({
+            searchPage: !this.state.searchPage
+        })
+    }
+
     render() {
-        let page = null;
-        if(this.state.searchPage){
-            console.log("searchPage");
+        let page;
+        if (this.state.searchPage) {
             page = <SearchPage updatePage={this.setSearchPage} updateSearchResult={this.setSearchResult}/>
-        }else{
-            console.log("Result: " + this.state.searchResult.songInfo.Artist + " - " + this.state.searchResult.songInfo.Song+ " - " + this.state.searchResult.songInfo.Game);
-            page = <ResultPage />
+        } else {
+            page = <ResultPage togglePage={this.togglePage} songInfo={this.state.searchResult}/>
         }
 
         return (
