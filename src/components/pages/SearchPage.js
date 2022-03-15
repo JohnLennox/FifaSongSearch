@@ -9,16 +9,7 @@ class SearchPage extends React.Component {
         this.state = {
             artist: '',
             songTitle: '',
-            guess: {
-                exact: false,
-                artistSearch: false,
-                songInfo: {
-                    Artist: '',
-                    Song: '',
-                    Game: ''
-                }
-
-            }
+            guess: []
         }
     }
 
@@ -47,7 +38,7 @@ class SearchPage extends React.Component {
                     <Header/>
                     <InputBox label="Song Title" updateFunction={this.setSongTitle}/>
                     <InputBox label="Artist Name" updateFunction={this.setArtistName}/>
-                    <Search artist={this.state.artist} updateFunction={this.setGuess} songTitle={this.state.songTitle}/>
+                    <Search type="button" class="btn btn-primary" artist={this.state.artist} updateFunction={this.setGuess} songTitle={this.state.songTitle}/>
                 </header>
             </div>
         );

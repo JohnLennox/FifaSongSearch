@@ -6,7 +6,7 @@ let stringSimilarity = require("string-similarity");
 class Search extends React.Component {
 
     state = {
-        songList: [{Artist: '', Song: '', Game: ''}],
+        songList: [],
     }
 
     componentDidMount() {
@@ -23,11 +23,13 @@ class Search extends React.Component {
             let getTitle = function (song) {return song.Song.toLowerCase()};
             let titleList = this.state.songList.map(getTitle);
             let searchResults = this.getOutParams(titleList, criteria.title, false);
+            console.log(searchResults);
             this.props.updateFunction(searchResults);
         } else if (!this.isBlank(criteria.artist)) {
             let getArtist = function (song) {return song.Artist.toLowerCase()};
             let artistList = this.state.songList.map(getArtist);
             let searchResults = this.getOutParams(artistList, criteria.artist, true);
+            console.log(searchResults);
             this.props.updateFunction(searchResults);
         }
     }
@@ -38,16 +40,16 @@ class Search extends React.Component {
         if (search.toLowerCase().trim() === closest.toLowerCase().trim()) {
             exact = true;
         }
-        let songInfo;
+        let songInfo = [];
         this.state.songList.map(song => {
             let searchCriteria = artist ? song.Artist : song.Song;
 
             if ((searchCriteria).toLowerCase().trim() === closest.toLowerCase().trim()) {
-                songInfo = song;
+                songInfo.push(song);
             }
         });
 
-        return ({exact: exact, artistSearch: true, songInfo: songInfo});
+        return ({exact: exact, artistSearch: artist, songInfo: songInfo});
     }
 
     searchListForValue(list, key) {
