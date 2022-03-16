@@ -34,15 +34,21 @@ class SearchPage extends React.Component {
     render() {
         return (
             <div className="App">
-                <header className="App-header">
-                    <Header/>
+                <Header/>
+                <header>
                     <InputBox label="Song Title" updateFunction={this.setSongTitle}/>
                     <InputBox label="Artist Name" updateFunction={this.setArtistName}/>
-                    <Search type="button" class="btn btn-primary" artist={this.state.artist} updateFunction={this.setGuess} songTitle={this.state.songTitle}/>
+                    <Search style = {searchStyle} artist={this.state.artist} updateFunction={this.setGuess} songTitle={this.state.songTitle}/>
                 </header>
             </div>
         );
     }
 }
+const searchStyle = {
+    paddingLeft:'1rem',
+    paddingRight:'1rem',
+
+}
+
 
 export default SearchPage;

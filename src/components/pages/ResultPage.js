@@ -1,6 +1,8 @@
 import React from "react";
 import Header from "../Header";
 import ResultBlock from "../ResultBlock";
+import Button from 'react-bootstrap/Button';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class ResultPage extends React.Component {
     constructor(props) {
@@ -10,9 +12,9 @@ class ResultPage extends React.Component {
             result: this.props.songInfo,
             exact: this.props.songInfo.exact,
             artistSearch: this.props.songInfo.artistSearch,
-            artist: this.props.songInfo.songInfo[0].Artist,
-            song: this.props.songInfo.songInfo[0].Song,
-            game: this.props.songInfo.songInfo[0].Game
+            artist: this.props.songInfo.songInfo[0].artist,
+            song: this.props.songInfo.songInfo[0].song,
+            game: this.props.songInfo.songInfo[0].game
         }
 
     }
@@ -24,7 +26,7 @@ class ResultPage extends React.Component {
         }
         const data = this.state.result.songInfo;
         const listItems = data.map((item, index) =>
-            <ResultBlock key={index} artist={item.Artist} title={item.Song} year={item.Game} />
+            <ResultBlock key={index} artist={item.artist} title={item.song} year={item.game} />
         );
 
         return (
@@ -32,10 +34,16 @@ class ResultPage extends React.Component {
                 <Header/>
                 {typeMessage}
                 {listItems}
-                <button onClick={this.props.togglePage}>Search Again?</button>
+                <Button variant="primary" style = {ButtonStyle} onClick={this.props.togglePage}>Search Again?</Button>
             </div>
         )
     }
+}
+
+const ButtonStyle = {
+    marginTop: "20px",
+    marginBottom: "20px",
+    width: "95%"
 }
 
 export default ResultPage;

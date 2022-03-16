@@ -16,7 +16,7 @@ class InputBox extends React.Component {
 
   render() {
     return (
-      <div>
+      <div style = {blockStyle}>
         <p style={LabelStyle}>{this.props.label}</p>
         <input style={InputStyle}
           type="text"
@@ -30,13 +30,19 @@ class InputBox extends React.Component {
 
 const LabelStyle = {
   fontSize: '1.5em',
-  margin: '0 0 0.5em 0',
-  paddingLeft: '0.9em',
   textAlign: 'left',
 };
 
+const blockStyle = {
+  display: 'block',
+  paddingLeft: '1rem',
+  paddingRight: '1rem',
+  justifyContent: 'center',
+  margin: '0.5em 0',
+};
+
 const InputStyle = {
-  width: '80%',
+  width: '100%',
   height: '80%',
   border: 'none',
   outline: 'none',

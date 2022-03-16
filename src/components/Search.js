@@ -1,5 +1,7 @@
 import React from 'react';
 import raw from '../resources/songList.txt';
+import Button from 'react-bootstrap/Button';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 let stringSimilarity = require("string-similarity");
 
@@ -20,13 +22,13 @@ class Search extends React.Component {
     getResult() {
         let criteria = {title: this.props.songTitle, artist: this.props.artist};
         if (!this.isBlank(criteria.title)) {
-            let getTitle = function (song) {return song.Song.toLowerCase()};
+            let getTitle = function (song) {return song.song.toLowerCase()};
             let titleList = this.state.songList.map(getTitle);
             let searchResults = this.getOutParams(titleList, criteria.title, false);
             console.log(searchResults);
             this.props.updateFunction(searchResults);
         } else if (!this.isBlank(criteria.artist)) {
-            let getArtist = function (song) {return song.Artist.toLowerCase()};
+            let getArtist = function (song) {return song.artist.toLowerCase()};
             let artistList = this.state.songList.map(getArtist);
             let searchResults = this.getOutParams(artistList, criteria.artist, true);
             console.log(searchResults);
@@ -42,7 +44,7 @@ class Search extends React.Component {
         }
         let songInfo = [];
         this.state.songList.map(song => {
-            let searchCriteria = artist ? song.Artist : song.Song;
+            let searchCriteria = artist ? song.artist : song.song;
 
             if ((searchCriteria).toLowerCase().trim() === closest.toLowerCase().trim()) {
                 songInfo.push(song);
@@ -63,11 +65,25 @@ class Search extends React.Component {
 
     render() {
         return (
-            <div>
-                <button onClick={() => this.getResult()}>Search</button>
+            <div style={blockStyle}>
+                <Button variant="primary" style={ButtonStyle} onClick={() => this.getResult()}>Search</Button>
             </div>
         );
     }
+
+}
+
+const blockStyle ={
+    paddingLeft: '1rem',
+    paddingRight: '1rem',
+}
+
+const ButtonStyle = {
+    width: '100%',
+    marginTop: "1em",
+    marginBottom: "1em",
+    paddingLeft:'1rem',
+    paddingRight:'1rem',
 
 }
 
