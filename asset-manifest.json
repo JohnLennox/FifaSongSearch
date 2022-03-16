@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fifa-search/static/css/main.c6257863.css",
-    "main.js": "/fifa-search/static/js/main.0878090c.js",
-    "static/js/787.d97caf05.chunk.js": "/fifa-search/static/js/787.d97caf05.chunk.js",
-    "static/media/songList.txt": "/fifa-search/static/media/songList.7dc84dcb7cf8e7b0e98c.txt",
-    "index.html": "/fifa-search/index.html",
-    "main.c6257863.css.map": "/fifa-search/static/css/main.c6257863.css.map",
-    "main.0878090c.js.map": "/fifa-search/static/js/main.0878090c.js.map",
-    "787.d97caf05.chunk.js.map": "/fifa-search/static/js/787.d97caf05.chunk.js.map"
+    "main.css": "/static/css/main.c6257863.css",
+    "main.js": "/static/js/main.08faf618.js",
+    "static/js/787.d97caf05.chunk.js": "/static/js/787.d97caf05.chunk.js",
+    "static/media/songList.txt": "/static/media/songList.7dc84dcb7cf8e7b0e98c.txt",
+    "index.html": "/index.html",
+    "main.c6257863.css.map": "/static/css/main.c6257863.css.map",
+    "main.08faf618.js.map": "/static/js/main.08faf618.js.map",
+    "787.d97caf05.chunk.js.map": "/static/js/787.d97caf05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6257863.css",
-    "static/js/main.0878090c.js"
+    "static/js/main.08faf618.js"
   ]
 }
