@@ -3,6 +3,7 @@ import Header from "../Header";
 import ResultBlock from "../ResultBlock";
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from "../Footer";
 
 class ResultPage extends React.Component {
     constructor(props) {
@@ -35,6 +36,7 @@ class ResultPage extends React.Component {
                 {typeMessage}
                 {listItems}
                 <Button variant="primary" style = {ButtonStyle} onClick={this.props.togglePage}>Search Again?</Button>
+                <Footer/>
             </div>
         )
     }

@@ -5,7 +5,7 @@ class Header extends React.Component {
     render() {
         return (
             <header style={headerBlockStyle}>
-                <h1 style={headerText}>Is it in FIFA?</h1>
+                <h1 style={headerText}>FIFA Song Search</h1>
                 <img style={imageStyle} src={imageLink}/>
             </header>
         );

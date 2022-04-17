@@ -2,6 +2,7 @@ import React from 'react';
 import Header from "../Header";
 import InputBox from "../InputBox";
 import Search from "../Search";
+import Footer from "../Footer";
 
 class SearchPage extends React.Component {
     constructor(props) {
@@ -40,6 +41,7 @@ class SearchPage extends React.Component {
                     <InputBox label="Artist Name" updateFunction={this.setArtistName}/>
                     <Search style = {searchStyle} artist={this.state.artist} updateFunction={this.setGuess} songTitle={this.state.songTitle}/>
                 </header>
+                <Footer/>
             </div>
         );
     }
