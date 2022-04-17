@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FifaSongSearch/static/css/main.c6257863.css",
-    "main.js": "/FifaSongSearch/static/js/main.93466324.js",
+    "main.js": "/FifaSongSearch/static/js/main.68e8bb81.js",
     "static/js/787.d97caf05.chunk.js": "/FifaSongSearch/static/js/787.d97caf05.chunk.js",
     "static/media/songList.txt": "/FifaSongSearch/static/media/songList.7dc84dcb7cf8e7b0e98c.txt",
     "index.html": "/FifaSongSearch/index.html",
     "main.c6257863.css.map": "/FifaSongSearch/static/css/main.c6257863.css.map",
-    "main.93466324.js.map": "/FifaSongSearch/static/js/main.93466324.js.map",
+    "main.68e8bb81.js.map": "/FifaSongSearch/static/js/main.68e8bb81.js.map",
     "787.d97caf05.chunk.js.map": "/FifaSongSearch/static/js/787.d97caf05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6257863.css",
-    "static/js/main.93466324.js"
+    "static/js/main.68e8bb81.js"
   ]
 }
